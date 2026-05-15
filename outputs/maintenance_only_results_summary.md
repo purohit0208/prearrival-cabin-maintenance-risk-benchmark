@@ -1,6 +1,6 @@
 # Maintenance-Only Results Summary
 
-This is the current result summary for the MLWA manuscript after removing inventory forecasting from the main paper.
+This is the current result summary for the MLWA manuscript after removing inventory forecasting from the main paper, adding a transformer severity baseline, and publishing the sanitized synthetic benchmark package.
 
 ## Scope
 
@@ -20,13 +20,14 @@ Main paper excludes:
 
 ## Text Extraction
 
-| Target | Test accuracy | Test macro-F1 | Gold accuracy | Gold macro-F1 |
-|---|---:|---:|---:|---:|
-| Component | 1.000 | 1.000 | 1.000 | 1.000 |
-| Severity | 0.685 | 0.617 | 0.549 | 0.539 |
-| Location | 0.996 | 0.996 | 0.998 | 0.997 |
+| Target | Model | Test accuracy | Test macro-F1 | Gold accuracy | Gold macro-F1 |
+|---|---|---:|---:|---:|---:|
+| Component | Char TF-IDF + SGD | 1.000 | 1.000 | 1.000 | 1.000 |
+| Severity | Char TF-IDF + SGD | 0.685 | 0.617 | 0.549 | 0.539 |
+| Severity | MiniLM embeddings + logistic regression | 0.641 | 0.601 | 0.524 | 0.539 |
+| Location | Char TF-IDF + SGD | 0.996 | 0.996 | 0.998 | 0.997 |
 
-Interpretation: component and location are easy in the synthetic template distribution; severity is the main extraction bottleneck.
+Interpretation: component and location are easy in the synthetic template distribution; severity is the main extraction bottleneck. The MiniLM transformer-embedding baseline does not improve test macro-F1 over the character n-gram model and matches the gold-subset macro-F1, so the severity bottleneck is not just an artifact of using a classical text baseline.
 
 ## Text Degradation
 
@@ -88,3 +89,11 @@ Bootstrap 95% confidence intervals for histogram gradient boosting test results 
 - usage plus extracted reports F1 delta vs usage-only: -0.009 (95% CI -0.035 to 0.016).
 
 Interpretation: report features provide a small but measurable regression gain, while thresholded F1 differences are not clearly positive. The paper should emphasize risk-index information gain and decision comparability, not claim a large F1 improvement.
+
+## Public Reproducibility Package
+
+The sanitized public package is available at:
+
+- https://github.com/purohit0208/prearrival-cabin-maintenance-risk-benchmark
+
+The public repository includes the synthetic dataset, schema files, reproducible scripts, generated result artifacts, and dataset/reproducibility documentation. It intentionally excludes internal review letters, manuscript drafts, paid/copyright literature PDFs, Consensus reports, and project-private files.
