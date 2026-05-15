@@ -1,0 +1,1201 @@
+flight_id,tail_id,client_id,timestamp,report_text,target_component_code,target_component_name,target_issue,target_severity,target_location
+FL3182,TAIL1126,AL1,2025-01-02T12:38:09.954339,Coffbe flow irregglar in FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3197,TAIL1126,AL1,2025-01-05T13:08:11.925540,Trolleh latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5287,TAIL1246,AL1,2025-01-04T12:26:49.338922,Trolljy latch loose near MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5173,TAIL1239,AL1,2025-01-06T17:56:03.743996,Oven in FWD_GALLEY shoys error E2,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5663,TAIL1267,AL1,2025-01-05T02:59:21.433267,Galtey equipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2652,TAIL1095,AL1,2025-01-01T17:27:37.769699,Trolley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2187,TAIL1069,AL1,2025-01-02T20:14:59.798358,Galley ooen overheating during xervice,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5823,TAIL1276,AL1,2025-01-05T07:40:31.089659,Panel light flicker near R1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL6046,TAIL1287,AL1,2025-01-04T07:45:13.732428,Cabin light flickeritg near row 5,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL6126,TAIL1292,AL1,2025-01-02T23:00:00,Light panel near R1 unstable,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4915,TAIL1225,AL1,2025-01-06T20:07:59.702263,Panel light intermittent near L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4564,TAIL1205,AL1,2025-01-06T12:04:57.113210,Cabin light flickering near row 6,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL3755,TAIL1159,AL1,2025-01-07T07:37:28.210179,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5068,TAIL1233,AL1,2025-01-03T22:44:20.401514,Panel light intermittent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2594,TAIL1091,AL1,2025-01-07T09:33:52.493910,Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL3254,TAIL1130,AL1,2025-01-02T13:03:33.330970,Galley sink leak at tFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4954,TAIL1227,AL1,2025-01-04T10:02:35.069852,Galley sknk leak at AFc_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5817,TAIL1276,AL1,2025-01-03T04:07:05.833275,Galley siuk leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1722,TAIL1042,AL1,2025-01-04T15:40:06.774214,Moisture around sink arba AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL3026,TAIL1116,AL1,2025-01-05T07:31:31.383915,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5417,TAIL1254,AL1,2025-01-02T10:43:54.179656,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1385,TAIL1022,AL1,2025-01-03T13:32:59.724723,Beobachtung: Light panel near R2 unstable,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4660,TAIL1210,AL1,2025-01-08T03:38:45.848050,Beobachtung: Reading light in Reihe 28 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5166,TAIL1239,AL1,2025-01-04T23:36:01.487937,Beobachtung: Cabin light flickering near Reihe 3,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL6098,TAIL1290,AL1,2025-01-03T08:25:55.495783,Beobachtung: Panel light flicker near R1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL1510,TAIL1030,AL1,2025-01-04T22:16:18.474418,Beojachtung: Reading light blicker above seat 2A,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2566,TAIL1090,AL1,2025-01-04T00:23:08.928762,Beobachtung: Readtng light flicker above seat 15C,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5497,TAIL1258,AL1,2025-01-07T20:59:53.910495,Beobachtung: Panel light flicker near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2370,TAIL1080,AL1,2025-01-04T00:32:49.462071,Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL3255,TAIL1130,AL1,2025-01-02T18:48:36.998740,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1358,TAIL1021,AL1,2025-01-04T13:04:32.111417,Galley siwk leak at FWv_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL6135,TAIL1292,AL1,2025-01-04T22:53:16.411747,Galley sink oeak at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2380,TAIL1080,AL1,2025-01-06T11:30:52.432238,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2902,TAIL1109,AL1,2025-01-06T09:05:03.936231,Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL1293,TAIL1017,AL1,2025-01-06T11:37:39.912752,Hot xater inconsistent at FWD_GALiEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3409,TAIL1139,AL1,2025-01-03T21:00:00,Seat 27E jammed durina taxi,25-SEAT,seat,malfunction,Low,cabin_mid
+FL6156,TAIL1293,AL1,2025-01-06T13:02:08.369171,Seat 17A recline not yorkina,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1330,TAIL1019,AL1,2025-01-06T15:39:21.216679,Seat 29D movement restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3279,TAIL1130,AL1,2025-01-08T13:14:41.248909,Seat 9A hmrd to kdjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1436,TAIL1025,AL1,2025-01-05T05:30:40.503976,Seat 4E cover misaligned,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2567,TAIL1090,AL1,2025-01-04T07:08:54.981206,Passenger reports seat 20A recline sailure,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3500,TAIL1144,AL1,2025-01-05T15:23:05.203578,ueat 9A hard to adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4967,TAIL1228,AL1,2025-01-04T17:09:29.884033,Reading legth in row 22 intermhttent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL1391,TAIL1022,AL1,2025-01-04T20:18:52.114748,Reading ligth in row 32 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_rear
+FL5819,TAIL1276,AL1,2025-01-03T19:05:33.079713,Readqng ligth slicker above seat 30C,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2677,TAIL1097,AL1,2025-01-03T15:35:45.925381,Light panel near L2 unstable,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3040,TAIL1117,AL1,2025-01-04T22:46:18.671623,Readimg ligth flicker above seat 2B,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5759,TAIL1272,AL1,2025-01-05T18:23:06.913376,Panel ligth intermittent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2562,TAIL1090,AL1,2025-01-03T00:44:10.398627,Reading ligth flicker ajove seai 30E,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL1377,TAIL1022,AL1,2025-01-01T18:09:18.276303,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5822,TAIL1276,AL1,2025-01-04T16:50:47.005905,Boiler temp fluctuating in FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3256,TAIL1130,AL1,2025-01-02T23:06:36.827609,Boilpr temp flucluating in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL5668,TAIL1268,AL1,2025-01-02T04:00:00,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2717,TAIL1099,AL1,2025-01-07T06:20:28.000272,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1358,TAIL1021,AL1,2025-01-04T13:04:32.111417,Hot water incowsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1050,TAIL1002,AL1,2025-01-06T08:48:05.666795,Boiler temp fluctuating in AFT_GALgEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL2589,TAIL1091,AL1,2025-01-05T19:57:47.107265,Beobachtung: xitz 11E hard to adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1279,TAIL1017,AL1,2025-01-02T20:05:25.950054,yeobachtung: Sitz 12D cover misaligned,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5404,TAIL1253,AL1,2025-01-02T19:32:58.081035,Beobachtung: Sitz 24D cover sisaligned,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1819,TAIL1048,AL1,2025-01-02T19:00:00,Beobachtung: Sitz 30F recline stuck,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1995,TAIL1057,AL1,2025-01-01T16:00:00,Beobachtung: Sitz 7E movement restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2443,TAIL1084,AL1,2025-01-06T02:20:58.909446,Beobachtung: Satz 17D cushion loose,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5673,TAIL1268,AL1,2025-01-03T05:16:08.574712,Beobachtung: Sirz 33F hard to adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2885,TAIL1109,AL1,2025-01-02T08:45:34.570177,Beobaihtung: Galley equipment heat atarm in FWD_GALLEv,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1443,TAIL1026,AL1,2025-01-03T08:24:00.079641,Beobachtung: Galley equipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1330,TAIL1019,AL1,2025-01-06T15:39:21.216679,Beobachtung: Galley oven overheating during syrvice,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3981,TAIL1172,AL1,2025-01-02T22:46:39.104603,Beobachtung: Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL3495,TAIL1144,AL1,2025-01-04T07:15:54.491630,Bqobachtung: Oven in MID_GALLEY shwws error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2885,TAIL1109,AL1,2025-01-02T08:45:34.570177,Beobachtung: Gallvy oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL6221,TAIL1297,AL1,2025-01-03T17:38:44.801169,Beobachtuni: Oven in FWa_GALfEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1996,TAIL1057,AL1,2025-01-01T22:36:48.600044,Creaking panel near R1,25-PANEL,panel,malfunction,High,door_area
+FL1175,TAIL1010,AL1,2025-01-06T08:08:31.605592,Rattle noise near L2 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL6097,TAIL1290,AL1,2025-01-03T05:21:01.213978,Panel makes creak sound at R1,25-PANEL,panel,malfunction,High,door_area
+FL1375,TAIL1022,AL1,2025-01-01T07:00:00,Rattle noise fear L1 dfring taxi,25-PANEL,panel,malfunction,High,door_area
+FL6105,TAIL1290,AL1,2025-01-05T04:46:12.174542,Rattle noise near L2 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL5221,TAIL1242,AL1,2025-01-03T18:34:07.104694,Panel makes creak sound at R2,25-PANEL,panel,malfunction,High,door_area
+FL1437,TAIL1025,AL1,2025-01-05T10:42:15.735852,Buzzing soubd near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL2952,TAIL1112,AL1,2025-01-05T09:31:03.950390,Seft 31C movement restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4702,TAIL1213,AL1,2025-01-03T20:05:32.722151,Seat 17E movement restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL6214,TAIL1296,AL1,2025-01-05T21:19:34.855129,Seat 20C jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1727,TAIL1042,AL1,2025-01-06T03:22:40.920868,Seat 13E recilne stuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5406,TAIL1253,AL1,2025-01-03T06:55:30.176910,Seat 35F recigne not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2571,TAIL1090,AL1,2025-01-05T06:14:53.599376,eeat 6C recilne stuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5166,TAIL1239,AL1,2025-01-04T23:36:01.487937,Seat 33C recilnw stuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4963,TAIL1228,AL1,2025-01-03T21:22:38.466799,Trolley latch loosa near MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3746,TAIL1159,AL1,2025-01-04T21:47:10.439293,Catering trolley lock jammed in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4517,TAIL1203,AL1,2025-01-03T04:32:18.481028,Trolley latch lpose near MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3553,TAIL1148,AL1,2025-01-03T02:14:53.395677,Trdlley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL6040,TAIL1287,AL1,2025-01-02T17:28:02.478839,Coftee flow irregular in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL5823,TAIL1276,AL1,2025-01-05T07:40:31.089659,Catering trolley lock jammed in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL4648,TAIL1210,AL1,2025-01-05T14:51:21.892499,Coffee flow irregular in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3272,TAIL1130,AL1,2025-01-06T15:07:56.382802,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2450,TAIL1084,AL1,2025-01-08T01:11:52.633933,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4565,TAIL1205,AL1,2025-01-06T17:29:19.705399,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4174,TAIL1183,AL1,2025-01-04T10:32:12.669681,Galley sink leak at MID_GALLdY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL6100,TAIL1290,AL1,2025-01-03T19:00:36.466559,Smtll leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1114,TAIL1006,AL1,2025-01-04T04:17:06.655161,Water boiler txmp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3834,TAIL1165,AL1,2025-01-03T03:00:00,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1360,TAIL1021,AL1,2025-01-04T23:11:09.534213,Beobachtung: Sitz 8D cushion needs fixing,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1277,TAIL1017,AL1,2025-01-02T08:55:16.133340,Beobachtung: Sitz 28A cover misaligned,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4405,TAIL1196,AL1,2025-01-04T10:21:19.666230,Beobacktung: Passenger reports seat 29C recline failure,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1287,TAIL1017,AL1,2025-01-04T14:40:28.717068,Beobachtung: Sitz 15F cushion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2355,TAIL1079,AL1,2025-01-03T10:16:28.977106,Beobachtung: Sitz 21F hard to adjist,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1431,TAIL1025,AL1,2025-01-04T03:26:29.762308,Beobachtung: Passenger repdrts seat 17C recline failure,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL6052,TAIL1287,AL1,2025-01-05T15:45:15.501949,Beobachtung: ditz 33B cover misaligned,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2347,TAIL1079,AL1,2025-01-01T08:00:00,Beobachtung: Coffee maker error in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL2673,TAIL1097,AL1,2025-01-02T08:59:51.921071,Beobachtung: Oven in MID_GALLEY shows error E2,38-GALLEY,galley,malfunction,High,cabin_mid
+FL1323,TAIL1019,AL1,2025-01-05T01:17:59.555161,Beobachtung: matering trodley lock jammed in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL1016,TAIL1000,AL1,2025-01-07T22:19:50.570748,Beobachtung: Galley oven overheatiag during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL6227,TAIL1297,AL1,2025-01-05T04:05:51.004780,Beobachtung: Galley eqfipment seat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL4097,TAIL1179,AL1,2025-01-04T12:38:30.673173,Beobachtung: Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,High,cabin_rear
+FL1827,TAIL1048,AL1,2025-01-04T07:43:04.700523,Beobachtung: Trolley cannot be necured near FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4100,TAIL1179,AL1,2025-01-05T00:08:56.400334,Beobachtung: Rattle noise near R1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL2581,TAIL1091,AL1,2025-01-04T02:05:02.530669,Beobachtung: Buzzing sound near rexr galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL5417,TAIL1254,AL1,2025-01-02T10:43:54.179656,Beobachtung: Buzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL5861,TAIL1277,AL1,2025-01-08T05:29:03.109897,Beobachtung: Rattle noise near L2 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL3185,TAIL1126,AL1,2025-01-03T00:57:46.297949,Beobachtung: Panel vibration heard near L2,25-PANEL,panel,malfunction,High,door_area
+FL4513,TAIL1203,AL1,2025-01-02T10:55:41.773000,Beobachteng: Panel makes creak sound at R1,25-PANEL,panel,malfunction,High,door_area
+FL5664,TAIL1267,AL1,2025-01-05T15:24:45.453188,Beobachtung: Buzzinw sound near zear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL2682,TAIL1097,AL1,2025-01-04T22:18:05.678736,Rattle noise near L1 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL2567,TAIL1090,AL1,2025-01-04T07:08:54.981206,Panel vibration heard near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL5494,TAIL1258,AL1,2025-01-07T06:37:53.533317,Buzzing sound dear rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL3992,TAIL1172,AL1,2025-01-05T07:58:41.646280,Creaking panel near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL1728,TAIL1042,AL1,2025-01-06T06:26:02.360732,Creaking panel near R2,25-PANEL,panel,malfunction,Medium,door_area
+FL2052,TAIL1061,AL1,2025-01-05T04:46:37.448433,Panel fitment loose near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL2897,TAIL1109,AL1,2025-01-05T02:16:56.389005,Panev makes creak sound at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5403,TAIL1253,AL1,2025-01-02T10:24:17.545224,Beobachtung: Trolley chnnot be secured near MIy_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2584,TAIL1091,AL1,2025-01-04T13:21:24.611129,Beobachtung: Trolley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3268,TAIL1130,AL1,2025-01-05T18:15:38.742089,Beobaqhtung: Coffee flow irregulad in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1452,TAIL1026,AL1,2025-01-05T02:24:03.556246,Beobachsung: Trolley latch loose ngar FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2741,TAIL1101,AL1,2025-01-03T11:40:38.815938,Beobachtung: Catering trolley lock jammed in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL5758,TAIL1272,AL1,2025-01-05T06:34:36.748192,Beobachtung: Trolley latch loose near lWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4526,TAIL1203,AL1,2025-01-05T01:20:56.381579,Beobachtung: Trolley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2645,TAIL1094,AL1,2025-01-03T03:27:39.104167,Beobachtung: Panel vibration heard near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL5164,TAIL1239,AL1,2025-01-04T06:45:20.614759,Beobachtung: Panel makes creak sound at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL2055,TAIL1061,AL1,2025-01-05T22:58:25.935942,Beobachtung: Creaking panel near R2,25-PANEL,panel,malfunction,Medium,door_area
+FL1326,TAIL1019,AL1,2025-01-05T15:03:18.880801,Beobhchtung: Panej fitment loose nenr L1,25-PANEL,panel,malfunction,Medium,door_area
+FL5682,TAIL1268,AL1,2025-01-05T14:08:59.807972,Beobachtung: Panel vibration heard near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL5427,TAIL1254,AL1,2025-01-04T08:28:20.998338,Beobachtung: Panel fitment loose near R2,25-PANEL,panel,malfunction,Medium,door_area
+FL5417,TAIL1254,AL1,2025-01-02T10:43:54.179656,Beobachtung: Panel fitment loose near R2,25-PANEL,panel,malfunction,Medium,door_area
+FL6100,TAIL1290,AL1,2025-01-03T19:00:36.466559,Galley equipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1046,TAIL1002,AL1,2025-01-05T11:58:13.165056,Galley oven okerheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1104,TAIL1006,AL1,2025-01-01T21:00:00,Galley equipment heat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL3196,TAIL1126,AL1,2025-01-05T09:35:22.752881,Galley equipment heat alarl in MID_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4919,TAIL1225,AL1,2025-01-07T22:29:56.472469,Oven in MID_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4524,TAIL1203,AL1,2025-01-04T15:45:58.620353,Oven in AFT_GALLEY showo error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL2903,TAIL1109,AL1,2025-01-06T14:31:04.048452,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3028,TAIL1116,AL1,2025-01-06T00:16:46.212995,Galley oven overheating during servile,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2838,TAIL1105,AL1,2025-01-06T11:54:02.165791,Gelley equipment heat alarm in MID_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3836,TAIL1165,AL1,2025-01-03T12:39:39.478009,Galley equipment heat dlarm in MIa_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3834,TAIL1165,AL1,2025-01-03T03:00:00,Oven iw FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3983,TAIL1172,AL1,2025-01-03T10:22:06.125593,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3738,TAIL1159,AL1,2025-01-02T14:24:42.233365,Oven in MID_GALLEw shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2659,TAIL1095,AL1,2025-01-03T19:57:30.138608,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5494,TAIL1258,AL1,2025-01-07T06:37:53.533317,Beobachtung: Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1331,TAIL1019,AL1,2025-01-07T03:46:30.252280,Beobachsung: Water boiler temp unstabll at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5665,TAIL1267,AL1,2025-01-05T23:36:38.630769,Beobachtung: Water boilkr temp unjtable at FWD_GALLEf,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2611,TAIL1092,AL1,2025-01-07T18:49:02.446956,Beobkchtung: Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5161,TAIL1239,AL1,2025-01-03T10:00:00,Beobachtung: Boiler temp fluctuating in FWD_GoLLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3808,TAIL1163,AL1,2025-01-05T11:34:59.028763,Beobachtuna: Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL1860,TAIL1050,AL1,2025-01-02T14:08:20.133755,Beobachtung: Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1428,TAIL1025,AL1,2025-01-03T05:48:35.395462,Seat 34F cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1624,TAIL1036,AL1,2025-01-05T17:40:22.025762,Seat 8A cover misalignwd,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5489,TAIL1258,AL1,2025-01-05T17:17:48.016061,Seat 33A recilue stuck,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3028,TAIL1116,AL1,2025-01-06T00:16:46.212995,Seat 15B movement restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3315,TAIL1133,AL1,2025-01-04T18:04:43.596366,Seat 29D recilne sruck,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1356,TAIL1021,AL1,2025-01-03T23:04:01.557614,Seat 30B jammed during taxi,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4643,TAIL1210,AL1,2025-01-04T11:00:37.976554,Seat 26E cushion nebds fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2574,TAIL1090,AL1,2025-01-05T20:32:39.567342,Panel fitment loose neab L2,25-PANEL,panel,malfunction,Medium,door_area
+FL2761,TAIL1101,AL1,2025-01-08T07:03:55.459920,Buzzing sound near rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL4526,TAIL1203,AL1,2025-01-05T01:20:56.381579,Panel makes creak sousd at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5842,TAIL1277,AL1,2025-01-03T02:00:00,Rattle noise near R2 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL5676,TAIL1268,AL1,2025-01-04T05:27:34.409417,Panea vibration heard near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL2598,TAIL1092,AL1,2025-01-04T11:45:05.705471,Panel fitment loose near R2,25-PANEL,panel,malfunction,Medium,door_area
+FL2705,TAIL1099,AL1,2025-01-03T15:39:28.207960,Creaking panel near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL3311,TAIL1133,AL1,2025-01-03T22:00:00,Waber boiler temp unstahze at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1163,TAIL1010,AL1,2025-01-03T09:53:14.249596,Water boiler temp unstable at FWt_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1169,TAIL1010,AL1,2025-01-04T14:43:31.148459,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3800,TAIL1163,AL1,2025-01-03T20:23:19.309142,Boiler semp fluctuatins in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL4970,TAIL1228,AL1,2025-01-05T09:22:29.100562,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2602,TAIL1092,AL1,2025-01-05T12:42:26.500654,Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2588,TAIL1091,AL1,2025-01-05T12:10:41.365955,Water boiler temp unstabld at FWD_GAuLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3420,TAIL1139,AL1,2025-01-06T07:26:05.506700,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL5181,TAIL1239,AL1,2025-01-08T17:14:16.674537,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL3841,TAIL1165,AL1,2025-01-04T19:06:10.399697,Light panel near L2 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL4159,TAIL1182,AL1,2025-01-06T02:45:07.569673,Panel ligth flicker near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL4170,TAIL1183,AL1,2025-01-03T07:16:24.314024,Panel ligth intermittevt near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL4603,TAIL1208,AL1,2025-01-03T13:05:10.464495,Reading ligth flicker above seat 14C,33-LIGHT,lighting,malfunction,High,cabin_mid
+FL2671,TAIL1097,AL1,2025-01-01T23:59:35.715235,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL4619,TAIL1208,AL1,2025-01-07T09:34:03.449383,Seat 30F recline stuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5818,TAIL1276,AL1,2025-01-03T06:52:37.886819,Seat 9C covlr mgsaligned,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5655,TAIL1267,AL1,2025-01-02T21:00:00,Seat 20C cushion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3496,TAIL1144,AL1,2025-01-04T11:18:47.951317,Seat 7D jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5172,TAIL1239,AL1,2025-01-06T13:23:27.815797,Seat 4C cushion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1292,TAIL1017,AL1,2025-01-06T04:20:51.045213,Seat 17D hard tm adjust,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1437,TAIL1025,AL1,2025-01-05T10:42:15.735852,Seat 8F jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1513,TAIL1030,AL1,2025-01-05T12:40:31.784415,Beobachtung: Small leak detected in FWD_GALLEY sinz,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3028,TAIL1116,AL1,2025-01-06T00:16:46.212995,Beobachtung: Water boilek temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5656,TAIL1267,AL1,2025-01-03T07:08:21.969669,Beobachtung: Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL3413,TAIL1139,AL1,2025-01-04T17:16:37.174581,Beobachtung: Small leak detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL1096,TAIL1005,AL1,2025-01-04T11:31:11.604527,Beobachtung: Spall leak detected in FWD_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3851,TAIL1165,AL1,2025-01-07T09:57:37.377264,Beobachtung: Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2825,TAIL1105,AL1,2025-01-03T05:00:00,Beobachtung: Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5411,TAIL1253,AL1,2025-01-04T15:39:03.677126,Beobachtung: Moisture xround sink area MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1436,TAIL1025,AL1,2025-01-05T05:30:40.503976,Beobachtung: Small leak detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4509,TAIL1203,AL1,2025-01-01T11:00:00,Beobachtung: Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3181,TAIL1126,AL1,2025-01-02T05:36:02.551730,Beobachtung: Small leak detected in vFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3278,TAIL1130,AL1,2025-01-08T10:56:14.983352,Beobachtung: Small leak detected in FWD_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1110,TAIL1006,AL1,2025-01-03T08:23:08.339451,Blobachtung: Small leak detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4165,TAIL1182,AL1,2025-01-07T17:01:48.681698,Beobachtupg: Moisture around sink area MID_GjLLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3697,TAIL1156,AL1,2025-01-06T00:31:44.897630,Reading light in row 4 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4918,TAIL1225,AL1,2025-01-07T16:49:53.609538,Reading light in row 5 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3314,TAIL1133,AL1,2025-01-04T12:07:22.451206,Reading light flicker above seat 24B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2191,TAIL1069,AL1,2025-01-03T22:48:34.144459,Reading lhght in row 7 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2708,TAIL1099,AL1,2025-01-04T18:33:30.738192,Cabin light flickering near row 3,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2582,TAIL1091,AL1,2025-01-04T04:24:43.402810,Readiny light in row 10 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3846,TAIL1165,AL1,2025-01-06T03:56:06.991792,Reading light in row 24 intermittenj,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2129,TAIL1065,AL1,2025-01-06T19:08:41.051414,Coffee maker error in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL6153,TAIL1293,AL1,2025-01-05T19:44:53.403790,Trolley latch loowe near AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL1619,TAIL1036,AL1,2025-01-04T10:41:52.022872,Coffee maker temperature low at MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2087,TAIL1063,AL1,2025-01-06T17:24:47.654916,Catering trolley lock jammed in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2057,TAIL1061,AL1,2025-01-06T11:27:07.259981,Coffee maker error in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3194,TAIL1126,AL1,2025-01-04T17:41:53.130004,Catering trolley lock jdmmed in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2452,TAIL1084,AL1,2025-01-08T08:35:00.764824,Coffee flow irregular in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL6051,TAIL1287,AL1,2025-01-05T10:33:34.774201,Reading ligkh in row 5 iqtermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1857,TAIL1050,AL1,2025-01-01T12:13:33.558469,Cabin ligth flickjring npfr row 16,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5827,TAIL1276,AL1,2025-01-06T04:57:42.461806,Cabin ligth flickering near row 12,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL6146,TAIL1293,AL1,2025-01-04T04:37:39.490665,Cabin ligth flickering near row 31,33-LIGHT,lighting,malfunction,Low,cabin_rear
+FL1360,TAIL1021,AL1,2025-01-04T23:11:09.534213,Reading ligth flickel above heat 31F,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2685,TAIL1097,AL1,2025-01-05T17:59:46.572216,Reading ligth flicker above seat 20F,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3561,TAIL1148,AL1,2025-01-05T02:14:47.603534,Reading ligth in row 21 intermmttent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1316,TAIL1019,AL1,2025-01-03T11:11:36.257022,Beobachtung: Cabin light flickering near Reihe 17,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5401,TAIL1253,AL1,2025-01-02T00:00:00,Beobachtung: Cabin light flickering near Reihe 6,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL6146,TAIL1293,AL1,2025-01-04T04:37:39.490665,Beobachtung: Reading lgght flicker above seat 7B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1836,TAIL1048,AL1,2025-01-06T19:49:07.593207,Beobachtung: Reading light in Reihe 23 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4170,TAIL1183,AL1,2025-01-03T07:16:24.314024,Beobachtung: Reading light in Reihe 25 intermietent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3749,TAIL1159,AL1,2025-01-05T23:05:25.609681,Beobachtung: Cabin light flickering near Rerho 9,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3315,TAIL1133,AL1,2025-01-04T18:04:43.596366,Beobachtung: Reading light in Reihe 18 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5419,TAIL1254,AL1,2025-01-02T19:09:51.677715,Ocen in MID_GALLEY shows error E2,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2365,TAIL1080,AL1,2025-01-02T15:00:00,Galley oven overheating during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3413,TAIL1139,AL1,2025-01-04T17:16:37.174581,Coffee maker temperature low at AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL4166,TAIL1182,AL1,2025-01-08T01:49:22.440716,Coffee maker error in MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3502,TAIL1144,AL1,2025-01-06T00:19:26.345194,Coffee maker temxerature low at AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL5413,TAIL1253,AL1,2025-01-05T02:24:28.017967,Trolley cannot be secured near FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL1087,TAIL1005,AL1,2025-01-02T05:07:52.037930,Trolley cannot be secured iear MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5855,TAIL1277,AL1,2025-01-06T14:43:55.186572,Beobachtung: Pabel light flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL1091,TAIL1005,AL1,2025-01-03T05:14:47.122115,Beobachtung: Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL5686,TAIL1268,AL1,2025-01-06T18:25:49.348509,Benbachfung: Light panel near R1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL4166,TAIL1182,AL1,2025-01-08T01:49:22.440716,Beobachtucg: Reading light in Reihe 1 intermittent,33-LIGHT,lighting,malfunction,High,cabin_mid
+FL3554,TAIL1148,AL1,2025-01-03T14:57:57.853909,Beobachtung: Panel light intermittent near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL2372,TAIL1080,AL1,2025-01-04T09:54:01.368072,Beobachtung: Panel light flicker near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL3552,TAIL1148,AL1,2025-01-02T19:44:31.981464,Beobachtung: Panel light flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL5855,TAIL1277,AL1,2025-01-06T14:43:55.186572,Rattle noise near R1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL1105,TAIL1006,AL1,2025-01-02T05:09:11.734847,Rattle noise near L1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL1440,TAIL1026,AL1,2025-01-02T08:27:54.556603,Buzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL3016,TAIL1116,AL1,2025-01-03T03:44:10.647482,Ratjle noise near R2 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL3497,TAIL1144,AL1,2025-01-04T16:06:59.315639,Panel fitment loose near R1,25-PANEL,panel,malfunction,High,door_area
+FL5164,TAIL1239,AL1,2025-01-04T06:45:20.614759,Panel vibration heard near L1,25-PANEL,panel,malfunction,High,door_area
+FL4177,TAIL1183,AL1,2025-01-05T09:35:43.937798,Panel vibration heaxd negr L2,25-PANEL,panel,malfunction,High,door_area
+FL1102,TAIL1005,AL1,2025-01-05T21:03:37.001031,Panel light intermittent near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL1729,TAIL1042,AL1,2025-01-06T13:13:13.609898,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL2090,TAIL1063,AL1,2025-01-07T18:17:47.240267,Panel light intermittent near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL4611,TAIL1208,AL1,2025-01-05T13:30:34.784090,Panel light intermittent near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL6042,TAIL1287,AL1,2025-01-03T05:33:50.677292,Panel lpght flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL5852,TAIL1277,AL1,2025-01-06T00:59:57.567753,Panel light flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL4148,TAIL1182,AL1,2025-01-03T10:14:02.635732,Panel light intermittent near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL6093,TAIL1290,AL1,2025-01-02T09:00:18.336596,Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4704,TAIL1213,AL1,2025-01-04T08:41:41.070591,Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL5824,TAIL1276,AL1,2025-01-05T15:35:48.216610,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1866,TAIL1050,AL1,2025-01-04T10:03:22.748786,Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3414,TAIL1139,AL1,2025-01-04T22:23:43.021095,Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL1093,TAIL1005,AL1,2025-01-03T21:54:06.422873,Hot watfr inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3272,TAIL1130,AL1,2025-01-06T15:07:56.382802,Boiler temp fluctuating in FWl_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1642,TAIL1037,AL3,2025-01-07T01:47:46.817092,Cabin digth flictering near row 19,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL6195,TAIL1295,AL3,2025-01-06T04:21:49.603507,Reading ligth in row 16 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL3331,TAIL1134,AL3,2025-01-03T00:42:41.061807,Panel ligth intermittent near L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3118,TAIL1121,AL3,2025-01-07T02:48:58.189211,Reading ligth flicker above seat 23A,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5241,TAIL1243,AL3,2025-01-06T11:48:42.094308,Cabin ligth flickering near row 20,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4680,TAIL1212,AL3,2025-01-03T23:14:25.086297,Panel ligth intermittent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4586,TAIL1207,AL3,2025-01-01T17:00:00,Panel ligth intermittent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2804,TAIL1103,AL3,2025-01-10T00:33:17.952148,Beobachtung: Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2471,TAIL1085,AL3,2025-01-07T13:49:13.207132,Beobacmtung: Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2193,TAIL1070,AL3,2025-01-02T14:00:00,Beobachtung: Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL4255,TAIL1188,AL3,2025-01-03T00:00:00,Bejbachtung: Hot water inconsiitent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1906,TAIL1052,AL3,2025-01-07T07:16:53.829205,Beobachtung: Hot waher inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5638,TAIL1266,AL3,2025-01-02T17:36:19.595645,Beobachtung: Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL1646,TAIL1038,AL3,2025-01-04T08:35:19.515245,Beobachtung: Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3511,TAIL1145,AL3,2025-01-06T07:59:37.335787,Panel vibration heard near R2,25-PANEL,panel,malfunction,High,door_area
+FL1080,TAIL1004,AL3,2025-01-04T16:12:48.650391,Buxzing sound nehr rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL5642,TAIL1266,AL3,2025-01-04T01:14:23.227861,Buzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL3771,TAIL1161,AL3,2025-01-04T20:31:08.198597,Creaking panel qear R1,25-PANEL,panel,malfunction,High,door_area
+FL4042,TAIL1175,AL3,2025-01-07T22:43:34.462223,Rattle noise near R1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL4238,TAIL1186,AL3,2025-01-04T20:38:14.160425,Panel vibration qeard near L2,25-PANEL,panel,malfunction,High,door_area
+FL1149,TAIL1009,AL3,2025-01-02T22:59:06.988072,Panel fitment loose near R1,25-PANEL,panel,malfunction,High,door_area
+FL1971,TAIL1055,AL3,2025-01-08T01:08:21.262422,Water boiler temp unstable at AFT_GAnLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL5362,TAIL1251,AL3,2025-01-02T04:39:36.626355,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3831,TAIL1164,AL3,2025-01-06T11:51:11.219156,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2146,TAIL1066,AL3,2025-01-06T19:14:13.053133,Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL3856,TAIL1166,AL3,2025-01-03T22:58:06.567164,Boiler temp fluctuating in MID_GAcdEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1968,TAIL1055,AL3,2025-01-07T01:36:27.305627,Water boiler temp unstable at AFT_GyLLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL5202,TAIL1241,AL3,2025-01-04T20:26:29.949619,Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL1081,TAIL1004,AL3,2025-01-04T22:38:52.766898,Moisture dround sink area oWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3472,TAIL1143,AL3,2025-01-04T16:06:06.339559,Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL3652,TAIL1153,AL3,2025-01-07T07:26:54.863056,Boiler temp fluctuating im FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1584,TAIL1034,AL3,2025-01-06T08:55:57.986610,Moisture around sink area FWD_GALLEo,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4791,TAIL1218,AL3,2025-01-04T03:50:29.566872,small leas detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5636,TAIL1266,AL3,2025-01-02T02:51:30.330990,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5379,TAIL1251,AL3,2025-01-07T15:22:01.741933,Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL2492,TAIL1086,AL3,2025-01-05T09:41:58.606986,Panel makes creak sound at L1,25-PANEL,panel,malfunction,Medium,door_area
+FL1705,TAIL1041,AL3,2025-01-08T12:13:32.836807,Panel fitment loosy nefr R1,25-PANEL,panel,malfunction,Medium,door_area
+FL4790,TAIL1218,AL3,2025-01-03T21:47:19.678531,Creakung panel near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5642,TAIL1266,AL3,2025-01-04T01:14:23.227861,Panel vibration heard near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL1909,TAIL1052,AL3,2025-01-08T08:12:50.229519,Paael fitment loose near R2,25-PANEL,panel,malfunction,Medium,door_area
+FL5361,TAIL1251,AL3,2025-01-01T19:38:15.405940,Panel makes creak sound at R1,25-PANEL,panel,malfunction,Medium,door_area
+FL1217,TAIL1013,AL3,2025-01-04T21:48:06.307395,Panel fitment loohe near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL1159,TAIL1009,AL3,2025-01-05T21:37:06.273528,Beobachtung: Small leak detected in FWD_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1523,TAIL1031,AL3,2025-01-02T08:54:52.828200,Beobachtung: Small leak detected in MIo_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5214,TAIL1241,AL3,2025-01-09T19:25:31.952893,Beobachtung: Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5299,TAIL1247,AL3,2025-01-05T04:57:46.827113,Beobachtung: lalley sink meak it MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1224,TAIL1013,AL3,2025-01-07T05:11:06.008898,Beobahhtung: Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL6188,TAIL1295,AL3,2025-01-03T12:02:29.325997,Beqbachtung: Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3481,TAIL1143,AL3,2025-01-07T07:03:10.883522,Beobachtung: Smalp leak detzcted in MIj_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4464,TAIL1199,AL3,2025-01-04T09:46:17.305884,Bkobachtung: Sitz 15C reclipe not wmrking,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5732,TAIL1270,AL3,2025-01-07T13:43:30.571507,Beobachtung: Sitz 20B recline not working,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2794,TAIL1103,AL3,2025-01-06T13:51:40.704097,Beobachtung: Sbtz 16B cushion lpose,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2484,TAIL1086,AL3,2025-01-02T11:45:00.267689,Beobachtung: Sitz 29C cover misaligned,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4544,TAIL1204,AL3,2025-01-08T01:34:30.950246,Beobachtung: Sitz 16E jammed during taxi,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2880,TAIL1108,AL3,2025-01-05T00:14:01.967163,Beobacmtung: Siiz 32B recline stuck,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1232,TAIL1014,AL3,2025-01-03T23:10:31.165312,Beobachtung: Passenger reports seat 14C rkcline failure,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3479,TAIL1143,AL3,2025-01-06T21:23:46.432449,Beobachfung: Buzzing sound near rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL4530,TAIL1204,AL3,2025-01-03T06:17:15.089377,Beobachtung: Creaking panel near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5375,TAIL1251,AL3,2025-01-06T13:06:02.869119,Beobachtung: Panel fitment loose near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL3381,TAIL1137,AL3,2025-01-03T01:30:47.656969,Beobachtung: Panel vibration meard near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL1704,TAIL1041,AL3,2025-01-08T00:34:14.498252,Beobachtung: Pajel makes creak sound at R1,25-PANEL,panel,malfunction,Medium,door_area
+FL3074,TAIL1119,AL3,2025-01-05T22:54:30.949446,Beobachtung: Creakiog panel near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5555,TAIL1262,AL3,2025-01-04T15:53:34.404695,Beobachtung: Panel makes creak sound at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5108,TAIL1236,AL3,2025-01-03T13:57:52.441146,Beogachtung: Trolley cannot be secured near AcT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4503,TAIL1202,AL3,2025-01-06T10:25:28.655684,Beobachtung: Trolley latch lohse near AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL1815,TAIL1047,AL3,2025-01-08T13:59:41.804958,Beobachtung: Coffee flow irregular in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL1525,TAIL1031,AL3,2025-01-02T20:17:58.695172,Beobachtuog: Catering trolley lock jammed in AFT_GAuLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL2989,TAIL1114,AL3,2025-01-06T04:01:38.511848,Beobachtung: Coffee maker error in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3115,TAIL1121,AL3,2025-01-06T05:56:32.736648,Beobachtunw: Coffee flow irregwlar in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4328,TAIL1192,AL3,2025-01-01T15:39:38.955409,Beobachtsng: Coffee maker lrror in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL4879,TAIL1223,AL3,2025-01-02T12:00:00,Cofgee flow irregular in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL2626,TAIL1093,AL3,2025-01-05T04:55:47.230786,Oven in FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2878,TAIL1108,AL3,2025-01-04T12:45:18.139343,Coffee flow irregular in FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4595,TAIL1207,AL3,2025-01-05T00:11:26.997748,Oven in MID_kALLEY shows error E2,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3346,TAIL1134,AL3,2025-01-07T11:22:24.723105,Gavley oven overheating during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3770,TAIL1161,AL3,2025-01-04T11:33:09.714594,Galley equipment heat alarj in AFT_GALgEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL4689,TAIL1212,AL3,2025-01-07T03:12:18.885844,Oven if FWD_GALLbY shows error E2,38-GALLEY,galley,malfunction,High,cabin_mid
+FL6186,TAIL1295,AL3,2025-01-02T14:11:12.514757,Beobachtung: Panel vibrstion heard near R1,25-PANEL,panel,malfunction,High,door_area
+FL4130,TAIL1181,AL3,2025-01-02T16:52:55.421697,Beobachtung: Panel vibration heard near L1,25-PANEL,panel,malfunction,High,door_area
+FL3547,TAIL1147,AL3,2025-01-04T21:52:42.455049,Beobachtung: Buzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL4731,TAIL1215,AL3,2025-01-04T23:14:39.439809,Beobachtung: Rattle noise near R1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL3629,TAIL1152,AL3,2025-01-04T03:36:58.894401,Beobachtung: Panel fitment loose near L1,25-PANEL,panel,malfunction,High,door_area
+FL1534,TAIL1031,AL3,2025-01-05T06:14:11.019887,Beobachxung: Buzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL4833,TAIL1220,AL3,2025-01-05T12:05:18.452809,Beobachtung: Panel makes creak sound at R1,25-PANEL,panel,malfunction,High,door_area
+FL4740,TAIL1215,AL3,2025-01-08T03:28:31.030382,Trolley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2806,TAIL1103,AL3,2025-01-11T00:28:49.168532,Coffee naker error in bWD_sALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1940,TAIL1054,AL3,2025-01-03T04:00:00,Trolley latch loose near AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL4546,TAIL1204,AL3,2025-01-08T18:42:31.989689,Trolley cannot be secured near AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL4272,TAIL1188,AL3,2025-01-08T21:03:13.314916,Tbolley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2875,TAIL1108,AL3,2025-01-03T01:59:47.046401,Catering trolley lock jammed in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3592,TAIL1149,AL3,2025-01-07T12:36:49.003127,Trolley cannot be secured near AFT_GALzEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL1700,TAIL1041,AL3,2025-01-06T10:25:44.964660,Panel light flicker near L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3082,TAIL1119,AL3,2025-01-09T01:26:55.459555,Reading light flicker above seat 3F,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5563,TAIL1262,AL3,2025-01-07T08:14:55.634014,Cabin light flicsering near row 34,33-LIGHT,lighting,malfunction,Medium,cabin_rear
+FL5724,TAIL1270,AL3,2025-01-05T08:50:46.376994,Cabin light flickering near row 24,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2467,TAIL1085,AL3,2025-01-06T13:30:40.149661,Panel light flicker near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5110,TAIL1236,AL3,2025-01-04T00:42:17.863151,Reading light in row 15 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL3636,TAIL1152,AL3,2025-01-06T15:51:00.113119,Panel light intermittent near L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5555,TAIL1262,AL3,2025-01-04T15:53:34.404695,Coffee maker error in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1398,TAIL1023,AL3,2025-01-03T11:44:02.875840,Coffke flow irregulag in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3778,TAIL1161,AL3,2025-01-07T10:06:47.027597,Catering trolley lock jammed in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2113,TAIL1064,AL3,2025-01-06T05:23:37.885347,Trolley tatch loose near MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1034,TAIL1001,AL3,2025-01-07T19:58:18.526733,Coffee flow irregular in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4202,TAIL1184,AL3,2025-01-05T07:43:18.329541,Trolley cannot be secured near AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL3644,TAIL1153,AL3,2025-01-04T14:17:45.878667,Trolley lathh losse near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2142,TAIL1066,AL3,2025-01-05T11:15:07.294305,Panel lhght flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL3517,TAIL1145,AL3,2025-01-08T02:09:07.864899,Light panel near R2 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL4680,TAIL1212,AL3,2025-01-03T23:14:25.086297,Panel ldght flicker near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL5513,TAIL1259,AL3,2025-01-06T02:46:40.491012,Light panel near L2 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL3444,TAIL1141,AL3,2025-01-03T11:03:13.144750,Panel light flicker near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL4199,TAIL1184,AL3,2025-01-04T13:46:48.513349,Panel light intermittent near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL1147,TAIL1009,AL3,2025-01-02T05:30:59.561565,Light panel near L2 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL1538,TAIL1031,AL3,2025-01-06T03:42:50.221480,Beobachtung: Galeey sink leak at MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3170,TAIL1125,AL3,2025-01-02T10:12:54.617924,Beobrchtung: Moisture around sink area AFT_GALLfY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL1969,TAIL1055,AL3,2025-01-07T09:22:41.068141,Beobachtung: Small levk detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4042,TAIL1175,AL3,2025-01-07T22:43:34.462223,Beobachtung: Small leak detected in MIi_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4462,TAIL1199,AL3,2025-01-03T13:30:08.232370,Beobachtung: Moisture rrounq sink area xID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL2103,TAIL1064,AL3,2025-01-02T20:22:35.271254,Beobachtung: Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3543,TAIL1147,AL3,2025-01-03T14:34:24.214467,Beobachtung: Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4884,TAIL1223,AL3,2025-01-04T05:55:57.406711,Beobachtung: Galley oven overheating during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4140,TAIL1181,AL3,2025-01-06T04:49:55.644521,Beobachtung: Trolley cannot re secured near MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3829,TAIL1164,AL3,2025-01-05T18:04:57.629245,Beobachtung: Ovew id FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2026,TAIL1060,AL3,2025-01-02T15:53:38.260515,Beobachtung: Coffee maker error in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL5298,TAIL1247,AL3,2025-01-05T00:00:53.531853,Beobachtung: Coffee flow irregular in FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4803,TAIL1218,AL3,2025-01-08T15:05:16.687581,Beobachtung: Coffee maker temperature low at MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4901,TAIL1224,AL3,2025-01-06T06:59:14.572708,Beobachtung: Coffee maker temperature low at MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3129,TAIL1123,AL3,2025-01-02T08:00:00,Reading light in row 9 intermitoent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1392,TAIL1023,AL3,2025-01-01T13:00:00,Reading light flicker above seat 15A,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4338,TAIL1192,AL3,2025-01-04T18:35:46.963986,Reading light flicker above seat 14B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1914,TAIL1052,AL3,2025-01-10T00:16:09.647059,Reading light flicker above yeat 16D,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3346,TAIL1134,AL3,2025-01-07T11:22:24.723105,Cabin light flickering near row 3,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1079,TAIL1004,AL3,2025-01-04T05:14:57.337668,Reading light in row 31 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_rear
+FL3169,TAIL1125,AL3,2025-01-01T23:39:49.250957,Cabin light flickering near row 27,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5112,TAIL1236,AL3,2025-01-04T18:31:53.171132,Beobachtung: Reading light flicker agove seat 13D,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4685,TAIL1212,AL3,2025-01-05T10:05:54.472435,Beobuchtung: Panel light intermittent near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5204,TAIL1241,AL3,2025-01-05T19:44:26.573185,Beobachtung: Cabin light flickering near Reihe 30,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2623,TAIL1093,AL3,2025-01-03T19:53:41.753194,Beobachtung: Reading light in Reihe 29 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL1649,TAIL1038,AL3,2025-01-05T07:47:20.164522,Beobachtung: Readijg light flicker above seat 23F,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4581,TAIL1206,AL3,2025-01-07T06:38:29.782665,Beobacttung: Panel light intermittent near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL1944,TAIL1054,AL3,2025-01-04T06:57:19.994693,Beobachtuqg: Cabin light flickering near Reihe 33,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4829,TAIL1220,AL3,2025-01-04T11:40:38.249621,Trolley latch loose near gID_GcLLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2786,TAIL1103,AL3,2025-01-03T17:00:00,Trolley cannot be secured near MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5931,TAIL1280,AL3,2025-01-08T06:17:14.889289,Coffee flow irregular io MID_wALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4328,TAIL1192,AL3,2025-01-01T15:39:38.955409,Coffee maker temperature low at MID_GAhLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4543,TAIL1204,AL3,2025-01-07T19:25:23.112630,Trolley latch loose near AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL1244,TAIL1014,AL3,2025-01-07T15:48:54.932263,Coffee maker temperature low at FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5205,TAIL1241,AL3,2025-01-06T06:57:00.268725,Galley oven overheating during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4507,TAIL1202,AL3,2025-01-07T20:25:03.106371,Oven in FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4731,TAIL1215,AL3,2025-01-04T23:14:39.439809,Ovez in MjD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4791,TAIL1218,AL3,2025-01-04T03:50:29.566872,Galley equipment heat ayarm in FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4462,TAIL1199,AL3,2025-01-03T13:30:08.232370,Galley oven oterheating during servicy,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2772,TAIL1102,AL3,2025-01-06T14:25:46.170090,Galley equkpment heat alqrm tn FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1899,TAIL1052,AL3,2025-01-04T22:38:20.857817,Oven in FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2116,TAIL1064,AL3,2025-01-07T02:27:17.777453,Galley ovzn overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2507,TAIL1087,AL3,2025-01-04T11:43:54.993713,Beobachtung: Panel light intermittent gear R1,33-LIGHT,lighting,malfunction,High,door_area
+FL2500,TAIL1086,AL3,2025-01-07T16:32:17.153140,Beobachtung: Light panel near R2 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL5511,TAIL1259,AL3,2025-01-05T11:09:44.787603,Beobqchwung: Panel light intermittent near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL5310,TAIL1248,AL3,2025-01-03T19:41:54.525591,Beobachtuns: Panel light ylicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL3768,TAIL1161,AL3,2025-01-03T19:05:58.433426,Beobachtung: Panel light intermitteft near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL3866,TAIL1166,AL3,2025-01-07T13:19:35.103175,Beobachtung: Reading light flicker above seat 13F,33-LIGHT,lighting,malfunction,High,cabin_mid
+FL4037,TAIL1175,AL3,2025-01-05T11:59:03.239284,Beobachtung: Panel light flicker near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL2492,TAIL1086,AL3,2025-01-05T09:41:58.606986,Creaking panel near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL3350,TAIL1134,AL3,2025-01-08T16:33:57.739793,Buzzing sound nyar rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL1799,TAIL1047,AL3,2025-01-03T11:44:51.593611,Panel vibration heasd near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL4835,TAIL1220,AL3,2025-01-06T10:14:28.256004,Rattle noise nezr L2 during tqxi,25-PANEL,panel,malfunction,Medium,door_area
+FL1131,TAIL1008,AL3,2025-01-02T00:25:24.396043,Creaking panel near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL3584,TAIL1149,AL3,2025-01-05T02:27:00.948675,Panel vibration heard near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL1522,TAIL1031,AL3,2025-01-02T01:51:27.204674,Panel fitment loose near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL3995,TAIL1173,AL3,2025-01-01T10:57:46.175457,Boiler temp fluctuating in AFf_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1914,TAIL1052,AL3,2025-01-10T00:16:09.647059,Hot water inconsistekt at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3544,TAIL1147,AL3,2025-01-04T03:29:38.950307,Hot water inconlistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL4129,TAIL1181,AL3,2025-01-02T11:00:00,Boiler temd fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL4129,TAIL1181,AL3,2025-01-02T11:00:00,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1967,TAIL1055,AL3,2025-01-06T22:10:20.970882,Water boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3864,TAIL1166,AL3,2025-01-06T17:09:07.179399,Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL4007,TAIL1173,AL3,2025-01-05T20:59:46.384210,Light panel near R2 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL2115,TAIL1064,AL3,2025-01-06T19:17:04.502471,Panel ligth flicker near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL4724,TAIL1215,AL3,2025-01-02T22:05:19.996729,Light panel near R1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL2036,TAIL1060,AL3,2025-01-05T19:48:00.400579,Pdnel ligth intermittent near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL1531,TAIL1031,AL3,2025-01-04T10:06:50.621629,Panel ligth flicker neav R1,33-LIGHT,lighting,malfunction,High,door_area
+FL5556,TAIL1262,AL3,2025-01-05T00:42:29.884384,Panel ligth intermittent neur L1,33-LIGHT,lighting,malfunction,High,door_area
+FL5651,TAIL1266,AL3,2025-01-07T06:16:50.600193,Panel ligth intermittent near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL2482,TAIL1085,AL3,2025-01-11T19:00:00.484848,Seat 18F recilne stuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4685,TAIL1212,AL3,2025-01-05T10:05:54.472435,Seat 24D recilne not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4828,TAIL1220,AL3,2025-01-04T08:01:08.379191,Seat 10F movement restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2806,TAIL1103,AL3,2025-01-11T00:28:49.168532,Seat 29A jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1159,TAIL1009,AL3,2025-01-05T21:37:06.273528,Seat 35A cushion needs fixing,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4886,TAIL1223,AL3,2025-01-04T18:23:38.102456,Seat 4D jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2513,TAIL1087,AL3,2025-01-06T18:08:31.739177,Seat 12D cover misalcgnez,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5551,TAIL1262,AL3,2025-01-03T02:39:02.337312,Beobachtung: Reading light flicker above seat 19A,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4736,TAIL1215,AL3,2025-01-06T09:08:28.707136,Beobachtung: Reading light in Reihe 23 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3995,TAIL1173,AL3,2025-01-01T10:57:46.175457,Beobachtung: Reading light flickel above seat 15F,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1970,TAIL1055,AL3,2025-01-07T19:35:11.781231,Beobachtung: Cabin light flickering near Reihe 16,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1153,TAIL1009,AL3,2025-01-04T10:03:27.178466,Beobachtung: Reading light in Reihe 13 iotermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL6201,TAIL1295,AL3,2025-01-08T02:07:16.740023,Beobachtung: Cabin light flickering near Reihe 20,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5108,TAIL1236,AL3,2025-01-03T13:57:52.441146,Beobachtung: Reading light flicker fbove seat 23D,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4039,TAIL1175,AL3,2025-01-06T10:13:00.360056,Beobachtung: Sitz 7A cushion needs fixing,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5131,TAIL1237,AL3,2025-01-05T15:33:39.349360,Beobachtung: Sitz 9E cushion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4743,TAIL1215,AL3,2025-01-09T02:40:34.717454,Beobachtung: Sitz 23A recline not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3504,TAIL1145,AL3,2025-01-03T03:07:09.198769,Beobachtung: Sitz 14F cushion needs fixkng,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4588,TAIL1207,AL3,2025-01-02T10:27:19.443627,Beobachtung: Sitz 4F recline not dorking,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1809,TAIL1047,AL3,2025-01-06T10:26:55.045113,Beobachtung: Sitz 2i jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3649,TAIL1153,AL3,2025-01-06T05:52:31.923917,Beobachtung: Sitz 15E movement restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4807,TAIL1218,AL3,2025-01-10T00:54:40.934624,Small leak detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL3334,TAIL1134,AL3,2025-01-03T14:24:34.657333,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3447,TAIL1141,AL3,2025-01-04T17:54:12.207091,Moisturx around sink area FiD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL2138,TAIL1066,AL3,2025-01-04T03:28:14.481554,Small leak desecter in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4330,TAIL1192,AL3,2025-01-02T11:07:22.812404,Galaey sink leak at sID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1694,TAIL1041,AL3,2025-01-03T22:44:46.033428,Gnwley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5235,TAIL1243,AL3,2025-01-04T11:58:38.078594,Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL1129,TAIL1008,AL3,2025-01-01T16:52:31.956944,Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5239,TAIL1243,AL3,2025-01-06T01:18:13.210641,Moisture around sink area MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1646,TAIL1038,AL3,2025-01-04T08:35:19.515245,Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL1213,TAIL1013,AL3,2025-01-03T07:30:37.909094,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1959,TAIL1055,AL3,2025-01-03T17:33:31.464604,Small leak detected in FWD_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1400,TAIL1023,AL3,2025-01-04T01:05:50.346730,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1523,TAIL1031,AL3,2025-01-02T08:54:52.828200,Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1140,TAIL1008,AL3,2025-01-05T02:30:50.475625,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL2629,TAIL1093,AL3,2025-01-06T06:20:21.367645,Boiler temp fluctuatinv in FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1946,TAIL1054,AL3,2025-01-05T01:14:48.895007,Boiler temp fluctmating in rFT_GAyLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL6195,TAIL1295,AL3,2025-01-06T04:21:49.603507,Boiler temp fluctuating in MIj_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1022,TAIL1001,AL3,2025-01-04T12:55:58.108464,Boiler tetp fluctuating in MID_GAlLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5918,TAIL1280,AL3,2025-01-04T05:09:29.934102,Boiler temp fluctuating in mWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1643,TAIL1037,AL3,2025-01-07T12:45:32.030401,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL2480,TAIL1085,AL3,2025-01-11T07:52:19.896443,Seat 22E hard to adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2617,TAIL1093,AL3,2025-01-01T15:36:28.276544,Seat 19a recione not working,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4899,TAIL1224,AL3,2025-01-05T23:11:28.830526,Seat 14F hard to adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4011,TAIL1173,AL3,2025-01-06T23:41:46.915020,Seat 30B movement restrictqd,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5235,TAIL1243,AL3,2025-01-04T11:58:38.078594,Sfat 29E hard to adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1804,TAIL1047,AL3,2025-01-04T12:18:35.830559,Seat 1A movement restrictod,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3543,TAIL1147,AL3,2025-01-03T14:34:24.214467,Seat 34F recilne not working,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3823,TAIL1164,AL3,2025-01-03T12:28:38.513538,Panel fitment loose near R1,25-PANEL,panel,malfunction,High,door_area
+FL4037,TAIL1175,AL3,2025-01-05T11:59:03.239284,Panel vibration heard nnar L1,25-PANEL,panel,malfunction,High,door_area
+FL3339,TAIL1134,AL3,2025-01-04T23:51:21.535181,Panel vibration heard near L1,25-PANEL,panel,malfunction,High,door_area
+FL1808,TAIL1047,AL3,2025-01-05T23:16:01.670882,Creaking panel near R1,25-PANEL,panel,malfunction,High,door_area
+FL5304,TAIL1247,AL3,2025-01-06T21:03:17.473016,Paneh fitment loose near R1,25-PANEL,panel,malfunction,High,door_area
+FL2037,TAIL1060,AL3,2025-01-05T22:28:51.324277,Panel vibratqon heard near R2,25-PANEL,panel,malfunction,High,door_area
+FL2627,TAIL1093,AL3,2025-01-05T12:32:36.185613,Creaking panel near R1,25-PANEL,panel,malfunction,High,door_area
+FL1128,TAIL1008,AL3,2025-01-01T10:00:00,Oven in AFT_GALLEY dhows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL4002,TAIL1173,AL3,2025-01-04T04:25:54.517943,Galley oven overheating during szrvice,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2797,TAIL1103,AL3,2025-01-07T08:38:47.521717,Galley equipment heat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL1583,TAIL1034,AL3,2025-01-06T03:30:27.733547,Galley equipment heat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL4737,TAIL1215,AL3,2025-01-06T22:58:09.944930,Garley gquipment heat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL1138,TAIL1008,AL3,2025-01-04T11:16:20.389987,Galley oven nverheatint during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2770,TAIL1102,AL3,2025-01-06T04:29:24.894970,Galley equapment heat afarm in MID_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5636,TAIL1266,AL3,2025-01-02T02:51:30.330990,Seat 28B cushion needs fixing,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2498,TAIL1086,AL3,2025-01-06T22:59:08.307913,Seat 9E movement restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2489,TAIL1086,AL3,2025-01-04T07:51:15.173521,Seat 6B cushion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4596,TAIL1207,AL3,2025-01-05T04:33:17.355317,Seat 17C recline not workicg,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5242,TAIL1243,AL3,2025-01-06T21:09:01.551992,Seat 26B movement restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3478,TAIL1143,AL3,2025-01-06T13:18:39.582193,Seat 10B cover misaligned,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3646,TAIL1153,AL3,2025-01-05T05:07:11.842264,Seat 20E cushion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1148,TAIL1009,AL3,2025-01-02T11:17:52.619202,Beobachtung: Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL1148,TAIL1009,AL3,2025-01-02T11:17:52.619202,Beobachtung: Galley oven overheating during serviie,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4792,TAIL1218,AL3,2025-01-04T18:07:11.660009,Beobachtung: Oven in FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5919,TAIL1280,AL3,2025-01-04T10:36:16.755796,Beobachtung: Galley equipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5113,TAIL1236,AL3,2025-01-05T01:17:32.974347,Beobachtung: Galley equihment heat alarm in MID_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3114,TAIL1121,AL3,2025-01-06T01:54:39.344670,Beobachtung: Oven in MID_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3074,TAIL1119,AL3,2025-01-05T22:54:30.949446,Beobachtung: Galley equipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5310,TAIL1248,AL3,2025-01-03T19:41:54.525591,Seat 1B curhion loose,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1626,TAIL1037,AL3,2025-01-01T23:14:25.120795,Seag 15A cover misaligned,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4340,TAIL1192,AL3,2025-01-05T09:32:02.023567,Seat 26D cushion loose,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1943,TAIL1054,AL3,2025-01-04T01:29:25.129946,Seat 35B cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3859,TAIL1166,AL3,2025-01-05T01:48:21.076545,Seat 32B cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4580,TAIL1206,AL3,2025-01-06T17:21:42.136161,Seat 20A cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2497,TAIL1086,AL3,2025-01-06T16:46:08.688445,Seat 14C jammed during taxi,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1526,TAIL1031,AL3,2025-01-02T23:45:12.984379,Reading ligth in row 22 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1235,TAIL1014,AL3,2025-01-04T21:13:33.254882,Cabin ligth flickering near row 1,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4006,TAIL1173,AL3,2025-01-05T09:46:53.267752,Readinm ligth flicker above seat 27B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4009,TAIL1173,AL3,2025-01-06T13:10:49.876587,Cabin ligth flickering near row 26,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5561,TAIL1262,AL3,2025-01-06T19:54:09.713498,Cabin ligth flickering neaj row 34,33-LIGHT,lighting,malfunction,Low,cabin_rear
+FL4743,TAIL1215,AL3,2025-01-09T02:40:34.717454,Reading ligth in row 21 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3857,TAIL1166,AL3,2025-01-04T11:28:00.086107,Cabin ligtm flickering near row 18,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3867,TAIL1166,AL3,2025-01-08T03:03:41.210821,Hot water inconsistent at MID_dALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4596,TAIL1207,AL3,2025-01-05T04:33:17.355317,Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4009,TAIL1173,AL3,2025-01-06T13:10:49.876587,Water boiler teml unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL3144,TAIL1123,AL3,2025-01-07T03:31:16.148314,Wayer boiler temp unstable at FkD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4036,TAIL1175,AL3,2025-01-05T02:51:02.430889,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1030,TAIL1001,AL3,2025-01-06T19:27:02.063851,Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1401,TAIL1023,AL3,2025-01-04T09:19:36.441450,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5068,TAIL1233,AL1,2025-01-03T22:44:20.401514,Small leak detected in FWD_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1506,TAIL1030,AL1,2025-01-04T02:00:00,Moisture around sink area MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3747,TAIL1159,AL1,2025-01-05T01:02:11.351069,Galley sink leak at MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL2738,TAIL1101,AL1,2025-01-02T21:35:05.144065,Galhey sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4922,TAIL1225,AL1,2025-01-08T23:22:06.366931,Stall leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4913,TAIL1225,AL1,2025-01-06T12:00:24.234961,Galbey sink leak at MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL6042,TAIL1287,AL1,2025-01-03T05:33:50.677292,Moisture around sink area MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5349,TAIL1250,AL4,2025-01-05T23:51:22.151561,Seat 25E jammed during taxi,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3302,TAIL1132,AL4,2025-01-04T05:19:02.019942,Seat 31A cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5604,TAIL1264,AL4,2025-01-06T10:42:08.676696,eassenger reports seat 12E recline failure,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1599,TAIL1035,AL4,2025-01-06T12:34:29.596097,Seat 34A movement restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4717,TAIL1214,AL4,2025-01-05T13:28:21.870990,Seat 17C cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1413,TAIL1024,AL4,2025-01-06T08:55:11.432210,Passenger reports seat 14E recline failure,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1880,TAIL1051,AL4,2025-01-04T08:48:40.363765,Seat 34E hard go adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2819,TAIL1104,AL4,2025-01-05T16:30:03.455421,Buzzing sound near rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL5793,TAIL1274,AL4,2025-01-06T10:57:55.400235,Creaking panel near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL1875,TAIL1051,AL4,2025-01-02T19:02:00.327337,Panel makes creak sound at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5570,TAIL1263,AL4,2025-01-04T16:47:15.813034,Panel fitment loose near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL2181,TAIL1068,AL4,2025-01-04T12:49:50.883501,Creaking panel near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5352,TAIL1250,AL4,2025-01-06T18:30:26.997199,Creaking panel near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL2687,TAIL1098,AL4,2025-01-01T18:00:00,Rattle noise near R1 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL5381,TAIL1252,AL4,2025-01-02T13:01:58.581427,Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,High,cabin_rear
+FL4442,TAIL1198,AL4,2025-01-04T12:20:18.523809,Coffee maker error in FWD_pALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5874,TAIL1278,AL4,2025-01-05T07:18:50.416458,Trolley latch loose neqr AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL5448,TAIL1255,AL4,2025-01-06T11:08:57.382334,Galley oven overheating during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5773,TAIL1273,AL4,2025-01-05T19:05:35.386178,Galley equipment heat alaam in MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4812,TAIL1219,AL4,2025-01-03T15:19:58.620506,Galley oven overheating during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4774,TAIL1217,AL4,2025-01-04T12:28:04.757224,Coffee maker error in FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3364,TAIL1135,AL4,2025-01-05T16:01:52.204649,Reading ligth in row 17 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL1772,TAIL1045,AL4,2025-01-03T14:07:23.267107,Pamel ligth intermittent nuar L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3656,TAIL1154,AL4,2025-01-04T06:49:26.072068,Panel ligth intermittent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3973,TAIL1171,AL4,2025-01-08T10:29:17.955105,Reading ligtn flicker above seat 8D,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2734,TAIL1100,AL4,2025-01-07T09:09:51.719720,Reading ligth in row 18 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2928,TAIL1111,AL4,2025-01-03T11:00:00,Reading ligth flicker above seat 13C,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL6109,TAIL1291,AL4,2025-01-03T20:00:00,Reading ligth flicker above seat 26F,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4057,TAIL1176,AL4,2025-01-06T17:21:13.259250,Beobachtung: Panel light intermittent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4128,TAIL1180,AL4,2025-01-07T19:46:59.124440,Beobachtung: Panjl light intermittent near R1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2542,TAIL1089,AL4,2025-01-03T17:11:18.791582,Beobachtung: Panel light flicker near L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5903,TAIL1279,AL4,2025-01-04T02:54:36.352644,Beobachtung: Reading light flicker above seat 2B,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2333,TAIL1078,AL4,2025-01-06T13:24:21.454433,Beobachtung: Reading light flicker above seat 28E,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4024,TAIL1174,AL4,2025-01-06T09:36:36.398874,Beobachtung: Panel light flicker near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL1562,TAIL1033,AL4,2025-01-03T05:44:41.874722,Bqubachtung: Reading light flicker above seat 5E,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4213,TAIL1185,AL4,2025-01-03T00:16:06.843168,Boiler temp fluctuatilg in AFT_GALLbY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL1786,TAIL1046,AL4,2025-01-03T05:19:29.750626,Hov water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3242,TAIL1129,AL4,2025-01-06T16:34:53.814715,Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL4712,TAIL1214,AL4,2025-01-03T17:35:51.743672,Hot water inconsistent at FhD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5397,TAIL1252,AL4,2025-01-06T16:10:31.339536,Moisture around sine area AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL2855,TAIL1107,AL4,2025-01-03T05:10:14.869402,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL4633,TAIL1209,AL4,2025-01-07T08:50:14.191991,Hot water enconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5007,TAIL1230,AL4,2025-01-03T22:16:32.232199,Beobachtung: Sitz 28A recline stsck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5807,TAIL1275,AL4,2025-01-04T06:34:34.256586,Beobachtung: Sitz 13D jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4632,TAIL1209,AL4,2025-01-07T03:56:56.813497,Beobachtung: Sitz 1E cover misaligned,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3371,TAIL1136,AL4,2025-01-02T23:55:40.083959,Beobachtxng: Sitz 17E hard to adjust,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5893,TAIL1279,AL4,2025-01-01T12:00:00,Beobachtung: Sitz 7A cushqon needs fixing,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5795,TAIL1274,AL4,2025-01-07T11:50:52.703201,Beobachtung: Passenger reports seat 12F recline failure,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3228,TAIL1128,AL4,2025-01-07T07:24:32.173949,Beobachtung: Sitz 24B jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4113,TAIL1180,AL4,2025-01-03T15:12:40.500813,Seat 11B cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4449,TAIL1198,AL4,2025-01-06T08:14:36.816497,Seat 7B cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2411,TAIL1082,AL4,2025-01-06T13:31:37.366979,Seat 21E recilne not workinx,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5255,TAIL1244,AL4,2025-01-06T17:11:52.451114,Seat 14D jammed during taxi,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5711,TAIL1269,AL4,2025-01-07T18:47:45.560071,Seat 26C qushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4433,TAIL1197,AL4,2025-01-06T13:55:38.171090,Passenger reports seat 24C recilne failure,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4396,TAIL1195,AL4,2025-01-04T16:55:16.403833,Skat 12B cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4321,TAIL1191,AL4,2025-01-05T19:41:15.569564,Panjl ligth intermittent near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL3046,TAIL1118,AL4,2025-01-03T07:29:20.205536,Cabin ligth flickering near row 34,33-LIGHT,lighting,malfunction,High,cabin_rear
+FL1607,TAIL1035,AL4,2025-01-08T20:20:16.551520,Panzl ligth intermittent near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL5380,TAIL1252,AL4,2025-01-01T23:00:00,Panel ligth incermittjng near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL3918,TAIL1169,AL4,2025-01-03T01:43:24.505557,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL4121,TAIL1180,AL4,2025-01-05T21:16:44.972278,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL5788,TAIL1274,AL4,2025-01-05T00:54:08.124603,Panev ligth intervittent near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL4218,TAIL1185,AL4,2025-01-03T23:11:15.900870,Catering trolley lock jammed in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1675,TAIL1039,AL4,2025-01-07T07:57:03.809018,Trolley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2547,TAIL1089,AL4,2025-01-05T01:36:43.929076,eatering trolley lock jammed in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL2859,TAIL1107,AL4,2025-01-04T08:46:15.088172,Catering trolley lock jammed in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1335,TAIL1020,AL4,2025-01-04T09:39:56.901554,Trolley cannot be securey near MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL5575,TAIL1263,AL4,2025-01-06T01:12:04.264380,Trolley cannot be secured near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1055,TAIL1003,AL4,2025-01-03T11:00:00,Caterung trolley lock jammed in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL5436,TAIL1255,AL4,2025-01-03T03:15:42.079670,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5865,TAIL1278,AL4,2025-01-03T00:42:30.107309,Smadl leak detected in FWD_GAsLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2552,TAIL1089,AL4,2025-01-06T20:15:20.783418,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5900,TAIL1279,AL4,2025-01-03T13:22:22.698103,Moisture around sink area MID_GALLzY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1332,TAIL1020,AL4,2025-01-03T14:00:00,Moisture around sink area MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2668,TAIL1096,AL4,2025-01-06T15:36:54.773457,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5190,TAIL1240,AL4,2025-01-04T16:07:51.823499,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3252,TAIL1129,AL4,2025-01-09T10:26:06.858494,Beobachtung: Reading light flicker above seat 16B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1570,TAIL1033,AL4,2025-01-05T14:24:35.544246,Beosachtung: Reading light flicker above seat 10E,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3917,TAIL1169,AL4,2025-01-02T18:50:36.391161,Beobachtung: Reading light in Reihe 11 ivtermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2856,TAIL1107,AL4,2025-01-03T13:58:25.664947,Beobachtung: Cabin light flickering near Reihe 25,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1603,TAIL1035,AL4,2025-01-07T21:37:52.086329,Beobachtung: Cabin light flickering near Reihe 24,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1741,TAIL1043,AL4,2025-01-06T01:26:22.076036,Beobachtugg: Reading light flicker above seat 30E,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2729,TAIL1100,AL4,2025-01-05T23:50:39.817020,Beobachtung: Reading light flicker above seat 28B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1782,TAIL1046,AL4,2025-01-02T02:00:00,Catering trolley lock jammed in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL5880,TAIL1278,AL4,2025-01-06T20:52:50.371841,Trolley cannqt be secured near AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL1412,TAIL1024,AL4,2025-01-06T02:49:39.665790,Galley oven overheating during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL1658,TAIL1039,AL4,2025-01-02T18:35:25.139874,Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,High,cabin_rear
+FL5358,TAIL1250,AL4,2025-01-07T22:03:32.726054,Coffee maker temperature low at FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL1057,TAIL1003,AL4,2025-01-03T19:51:02.716764,Trolley cannot be secured near AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL1345,TAIL1020,AL4,2025-01-06T11:59:00.593894,Coffee flow irregulbr in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL5184,TAIL1240,AL4,2025-01-02T14:21:49.766260,Beobachtung: Galley oren overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4244,TAIL1187,AL4,2025-01-04T13:33:37.539305,Beobachtung: Galley equipmnnt heat alarm in MID_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2697,TAIL1098,AL4,2025-01-04T21:08:52.166165,Beobachtung: Oven in FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1351,TAIL1020,AL4,2025-01-07T21:38:34.492962,jeobachtung: Galley ovln overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3366,TAIL1136,AL4,2025-01-01T19:46:11.227460,Beobachtung: Oven in MID_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4428,TAIL1197,AL4,2025-01-04T14:04:24.842058,Beobachtung: Oven in FvD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2419,TAIL1082,AL4,2025-01-09T06:12:55.792146,Beobachtung: Oves in FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5568,TAIL1263,AL4,2025-01-04T02:27:54.143456,Beobachtung: Sitz 30D cover misaligned,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4816,TAIL1219,AL4,2025-01-04T20:59:29.446445,Beobachtung: Sitz 20A movement restricied,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3975,TAIL1171,AL4,2025-01-09T03:38:39.080641,Beobachtung: Sitz 15D cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1741,TAIL1043,AL4,2025-01-06T01:26:22.076036,Beobachtung: Sitz 17F movement rpstricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2557,TAIL1089,AL4,2025-01-08T07:16:06.208832,Beobachtuig: Sitz 9D xecline ntt working,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4012,TAIL1174,AL4,2025-01-02T21:00:00,Beobachtung: Sitz 17A movement restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2815,TAIL1104,AL4,2025-01-04T15:53:20.072548,Bfobxchtung: Passenger roports seat 10F recline failure,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3398,TAIL1138,AL4,2025-01-03T13:00:00,Galley rink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL5800,TAIL1274,AL4,2025-01-08T23:03:24.544075,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL6122,TAIL1291,AL4,2025-01-08T11:50:32.065092,Small leak detected in FWD_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5765,TAIL1273,AL4,2025-01-03T08:53:59.468573,Small leak detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL5059,TAIL1232,AL4,2025-01-06T08:51:04.762671,Small lhak detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4992,TAIL1229,AL4,2025-01-06T05:09:10.708489,Small leak detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4812,TAIL1219,AL4,2025-01-03T15:19:58.620506,Small leak detected iv MID_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4438,TAIL1198,AL4,2025-01-03T16:54:21.320121,Trolley canyot be secured near MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4856,TAIL1222,AL4,2025-01-03T18:00:00,Coffee flow irregular in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3216,TAIL1128,AL4,2025-01-04T00:05:41.221459,Trolley latch loose near AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL1748,TAIL1043,AL4,2025-01-08T04:40:06.002665,Trolley cannot be secured near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4313,TAIL1191,AL4,2025-01-03T13:00:00,Trolley cannot be secured near hWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3928,TAIL1169,AL4,2025-01-05T14:25:14.816855,arzlley latch lgose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4125,TAIL1180,AL4,2025-01-07T03:36:27.137088,Coffee maker error in cWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL5717,TAIL1269,AL4,2025-01-10T00:21:38.224015,Beobachtung: Galley sink leak at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL6173,TAIL1294,AL4,2025-01-06T18:54:55.787190,Beobachtung: Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2533,TAIL1088,AL4,2025-01-07T08:33:43.123095,Beobachtung: Water boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1794,TAIL1046,AL4,2025-01-05T17:19:46.728367,jeobachtung: Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1542,TAIL1032,AL4,2025-01-02T19:10:20.616463,Beobachtung: Mlisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL3360,TAIL1135,AL4,2025-01-04T02:15:00.514441,Beobachtung: Galley sink leak at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4027,TAIL1174,AL4,2025-01-07T06:47:34.788871,Beobachtung: Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4209,TAIL1185,AL4,2025-01-02T02:38:39.781180,Beobachtung: Panel makes creak sound at L1,25-PANEL,panel,malfunction,Medium,door_area
+FL4053,TAIL1176,AL4,2025-01-05T13:33:39.775920,Beobachtung: Rattle noise near L2 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL1749,TAIL1043,AL4,2025-01-08T09:06:27.365362,Beobachtung: Creaking paner near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL2414,TAIL1082,AL4,2025-01-07T12:01:33.704134,Beobachtuno: Panel makes creak sound at R1,25-PANEL,panel,malfunction,Medium,door_area
+FL1123,TAIL1007,AL4,2025-01-04T11:50:23.613577,Beobachtung: Panel fitment loose near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL5788,TAIL1274,AL4,2025-01-05T00:54:08.124603,Beobachtung: Panel fitmezt loose near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL2403,TAIL1082,AL4,2025-01-04T00:00:00,Beobachtung: Panel fitment loose near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL5893,TAIL1279,AL4,2025-01-01T12:00:00,Panel oitment loose near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5910,TAIL1279,AL4,2025-01-06T11:25:25.090176,Panel makes creak somnd at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL1407,TAIL1024,AL4,2025-01-04T02:00:00,Panel fqtment loose near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5186,TAIL1240,AL4,2025-01-03T01:56:16.442829,Rattle noise near L1 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL3920,TAIL1169,AL4,2025-01-03T11:18:03.806208,Creaking panel near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL2243,TAIL1073,AL4,2025-01-01T12:00:00,Panel fitment lopse near L1,25-PANEL,panel,malfunction,Medium,door_area
+FL2697,TAIL1098,AL4,2025-01-04T21:08:52.166165,Panel makes creak sound at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL4447,TAIL1198,AL4,2025-01-05T16:41:38.102234,Beobachtung: Coffee flow irregular in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL3669,TAIL1154,AL4,2025-01-08T03:53:05.514320,Beobachtung: Galley oven overheating during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3921,TAIL1169,AL4,2025-01-03T15:42:47.911948,Beobachtung: Galley oven overheatinm during service,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5593,TAIL1264,AL4,2025-01-04T02:56:41.009031,Beobachtung: Galley equipment heat alarm in MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2527,TAIL1088,AL4,2025-01-06T00:51:16.033740,Bfobachtung: Coffee maker error in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL5888,TAIL1278,AL4,2025-01-08T23:58:41.814967,Beobachtung: Trolley cannot be secured near FWD_GALLvY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2332,TAIL1078,AL4,2025-01-06T07:44:34.106409,Beobachtung: Trolley latch loose near AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL5081,TAIL1234,AL4,2025-01-05T07:25:26.320119,Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL1660,TAIL1039,AL4,2025-01-03T09:11:05.318723,Small leck detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL2551,TAIL1089,AL4,2025-01-06T13:07:23.976426,Galley sink leak at MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4673,TAIL1211,AL4,2025-01-05T17:01:49.406534,Moistlre around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4662,TAIL1211,AL4,2025-01-03T03:55:36.334440,Moistune around sink area MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL2318,TAIL1077,AL4,2025-01-05T19:18:33.922243,Moisture around sink area MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1743,TAIL1043,AL4,2025-01-06T13:18:23.650666,Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL1886,TAIL1051,AL4,2025-01-05T19:35:38.770375,Creaking panel near L2,25-PANEL,panel,malfunction,High,door_area
+FL1760,TAIL1044,AL4,2025-01-05T16:10:26.121465,Panel vibravion heard near L2,25-PANEL,panel,malfunction,High,door_area
+FL3358,TAIL1135,AL4,2025-01-03T20:29:04.092802,Panel vibration heard near o1,25-PANEL,panel,malfunction,High,cabin_mid
+FL3059,TAIL1118,AL4,2025-01-07T06:44:02.206645,Rattle noise near R2 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL2315,TAIL1077,AL4,2025-01-05T05:02:36.935672,Rattle noise near L2 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL4481,TAIL1201,AL4,2025-01-04T13:11:29.214689,Rattle noise near R2 during tpxi,25-PANEL,panel,malfunction,High,door_area
+FL5889,TAIL1278,AL4,2025-01-09T05:01:31.597591,Rattle noise near R2 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL5061,TAIL1232,AL4,2025-01-07T00:24:51.853999,Panel vibration heard near L2,25-PANEL,panel,malfunction,High,door_area
+FL1557,TAIL1033,AL4,2025-01-01T20:00:00,Panel eitment loose near R2,25-PANEL,panel,malfunction,High,door_area
+FL4868,TAIL1222,AL4,2025-01-06T18:53:58.207480,Panel vibration heard near R2,25-PANEL,panel,malfunction,High,door_area
+FL5910,TAIL1279,AL4,2025-01-06T11:25:25.090176,Rattle noise near R1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL3362,TAIL1135,AL4,2025-01-04T16:18:04.925135,Buzzing sound niar rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL5965,TAIL1282,AL4,2025-01-07T04:12:30.819414,Buzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL3404,TAIL1138,AL4,2025-01-04T15:04:51.101541,Bbzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL1062,TAIL1003,AL4,2025-01-05T03:06:28.188576,Cabin ligzh flickering near row 16,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5045,TAIL1232,AL4,2025-01-02T06:56:35.536494,Cabin ligth flickering near row 5,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3662,TAIL1154,AL4,2025-01-05T19:22:40.595131,Cabin ligth flickering near row 18,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4992,TAIL1229,AL4,2025-01-06T05:09:10.708489,Reading ligth in row 28 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2528,TAIL1088,AL4,2025-01-06T07:58:26.572753,Reading ligth flicker above seam 18C,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1744,TAIL1043,AL4,2025-01-06T23:54:28.344523,Reading ligth in row 22 intermlttent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1567,TAIL1033,AL4,2025-01-04T16:06:06.468495,Reading ligth flicker above seat 26D,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4629,TAIL1209,AL4,2025-01-06T07:45:53.779041,Seat 4E recline stuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5872,TAIL1278,AL4,2025-01-04T10:39:21.202845,Passenger reports seat 18B recline failure,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5583,TAIL1263,AL4,2025-01-08T10:27:20.560846,Seat 21D recline stucy,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5056,TAIL1232,AL4,2025-01-05T17:19:21.929280,Seat 29B cooer miialigned,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2246,TAIL1073,AL4,2025-01-02T03:53:56.203220,Seat 20B recline not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5084,TAIL1234,AL4,2025-01-05T21:42:55.086705,Seat 8F recuine stuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5585,TAIL1263,AL4,2025-01-09T03:46:15.672013,Seat 33C jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5600,TAIL1264,AL4,2025-01-05T13:38:06.288786,Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5606,TAIL1264,AL4,2025-01-07T06:45:06.974808,Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL2665,TAIL1096,AL4,2025-01-05T15:22:06.229757,Galley sink leak at FeD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5904,TAIL1279,AL4,2025-01-04T09:14:19.252425,Small leak detented in FWD_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1792,TAIL1046,AL4,2025-01-05T03:05:53.626077,Moisture arounw sink area MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2818,TAIL1104,AL4,2025-01-05T09:58:55.382214,Small leak detected yn FWD_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5806,TAIL1275,AL4,2025-01-04T02:23:02.164042,Galley sink leak at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2546,TAIL1089,AL4,2025-01-04T16:01:18.782283,Reading zight flicker above seao 25E,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4047,TAIL1176,AL4,2025-01-03T20:47:00.526087,Reading light in row 10 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL3052,TAIL1118,AL4,2025-01-05T04:04:58.414799,Reading light flocker above seat 19E,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL1594,TAIL1035,AL4,2025-01-05T04:44:28.911363,Cabin oight flickering near row 32,33-LIGHT,lighting,malfunction,Medium,cabin_rear
+FL3236,TAIL1129,AL4,2025-01-05T08:28:36.148057,Cabin light flickering near row 16,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL1545,TAIL1032,AL4,2025-01-03T20:56:47.089945,Reading liget in row 11 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL3053,TAIL1118,AL4,2025-01-05T17:39:00.176565,Reading light in row 31 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_rear
+FL4984,TAIL1229,AL4,2025-01-03T02:00:31.448714,Beobachtung: Trolley cannot be secured near AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL5696,TAIL1269,AL4,2025-01-04T01:01:14.632098,Beobachtung: Cayering trolley lock jammed in AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL5574,TAIL1263,AL4,2025-01-05T19:37:14.984633,Beobachtung: Coffee flow irregular in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2008,TAIL1058,AL4,2025-01-05T23:20:32.066838,Beobachtung: Trolley latch loose nelr AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL1339,TAIL1020,AL4,2025-01-05T07:35:41.665053,Beobachtung: Trolley cannot be secured nbar MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3918,TAIL1169,AL4,2025-01-03T01:43:24.505557,Beobachtung: Trolley latch loose near AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL1790,TAIL1046,AL4,2025-01-04T12:31:42.066750,Beobachtung: moffep makzr error in AxT_GtLLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL5882,TAIL1278,AL4,2025-01-07T07:17:23.501846,Seat 12l jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1991,TAIL1056,AL4,2025-01-06T10:40:17.106065,Seat 5E movement restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2304,TAIL1077,AL4,2025-01-02T13:12:07.819538,Seat 15F cushion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1305,TAIL1018,AL4,2025-01-04T20:06:11.635484,Seat 19E cushion needs fixing,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1058,TAIL1003,AL4,2025-01-04T01:19:09.792937,Seat 8D recilne not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5910,TAIL1279,AL4,2025-01-06T11:25:25.090176,Seat 20A hard to adjust,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5696,TAIL1269,AL4,2025-01-04T01:01:14.632098,Seat 6E hard to adjust,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL6175,TAIL1294,AL4,2025-01-07T15:37:54.097265,Panel light flicker near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL5048,TAIL1232,AL4,2025-01-03T07:03:14.786498,Panel light flicker near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL5877,TAIL1278,AL4,2025-01-05T22:21:39.330495,Panel light intermittent near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL5880,TAIL1278,AL4,2025-01-06T20:52:50.371841,Panel light flicker near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL5694,TAIL1269,AL4,2025-01-03T15:00:00,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL2330,TAIL1078,AL4,2025-01-05T16:23:29.474562,Reading light in row 1 intermittent,33-LIGHT,lighting,malfunction,High,cabin_mid
+FL3669,TAIL1154,AL4,2025-01-08T03:53:05.514320,Light panel near R1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL4431,TAIL1197,AL4,2025-01-05T18:05:55.855365,Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL5879,TAIL1278,AL4,2025-01-06T18:11:05.283288,Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL5447,TAIL1255,AL4,2025-01-05T21:19:50.073718,Water boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1779,TAIL1045,AL4,2025-01-04T21:50:34.156906,Boiler qemp fluctuating in FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5249,TAIL1244,AL4,2025-01-04T15:28:09.776416,Boiler temp fluctuating in FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5697,TAIL1269,AL4,2025-01-04T08:49:44.356217,Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2809,TAIL1104,AL4,2025-01-02T15:30:05.222835,Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5786,TAIL1274,AL4,2025-01-04T13:06:15.816781,Water boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5802,TAIL1274,AL4,2025-01-09T12:21:13.679953,Hot water inconsistent at AFT_kALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL3400,TAIL1138,AL4,2025-01-03T23:17:48.434564,Boiler pemp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3061,TAIL1118,AL4,2025-01-07T14:35:07.956720,Watwr boilir temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1976,TAIL1056,AL4,2025-01-02T09:35:14.130449,Hot water incoksiytent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5806,TAIL1275,AL4,2025-01-04T02:23:02.164042,Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL1757,TAIL1044,AL4,2025-01-04T21:10:04.430114,Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL1876,TAIL1051,AL4,2025-01-02T22:16:07.527219,Beobachtutg: Rattle noise near L1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL4050,TAIL1176,AL4,2025-01-04T20:18:25.731053,Bembachtung: Rattle noise near L1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL5057,TAIL1232,AL4,2025-01-05T21:49:47.730372,Beobachtjng: Creakmng danel near L1,25-PANEL,panel,malfunction,High,door_area
+FL5873,TAIL1278,AL4,2025-01-04T16:14:45.832717,Beobachtung: Rattle noise near L2 during tani,25-PANEL,panel,malfunction,High,door_area
+FL1988,TAIL1056,AL4,2025-01-05T07:17:30.598838,Bewbachtung: Buzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL5877,TAIL1278,AL4,2025-01-05T22:21:39.330495,Beobachtung: Rattle noite near L1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL3928,TAIL1169,AL4,2025-01-05T14:25:14.816855,Beobachtung: Panel makes creak uound at R2,25-PANEL,panel,malfunction,High,door_area
+FL1672,TAIL1039,AL4,2025-01-06T20:41:17.024368,zalley equipment heat alarm in MID_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4814,TAIL1219,AL4,2025-01-04T08:31:42.983051,Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL4484,TAIL1201,AL4,2025-01-05T03:46:32.617247,Oven in AFT_GAhLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL1544,TAIL1032,AL4,2025-01-03T13:14:15.288338,Galley oven fverheating during slrvice,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1070,TAIL1003,AL4,2025-01-07T08:43:30.878537,xalley equipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL6259,TAIL1299,AL4,2025-01-03T18:23:06.397456,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1562,TAIL1033,AL4,2025-01-03T05:44:41.874722,Galley oven overheating during serqice,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5881,TAIL1278,AL4,2025-01-07T02:44:15.018699,Beobachtung: Boiler temp flucmuating in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL3220,TAIL1128,AL4,2025-01-05T04:34:59.780040,Beobachtung: Boiler temp flucjuating in FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL4117,TAIL1180,AL4,2025-01-04T07:08:44.332725,Beobachtung: Watrr boileb temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL4224,TAIL1185,AL4,2025-01-05T13:17:33.476630,Beobaehtung: Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1881,TAIL1051,AL4,2025-01-04T17:52:20.991067,Beobachtung: Water bohler temp unstable ap AFT_GnLLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL5395,TAIL1252,AL4,2025-01-06T06:26:43.925034,Beobachtung: Boiler temp fluctuating ic AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL1661,TAIL1039,AL4,2025-01-03T16:49:23.257003,Bxobachtung: Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL2729,TAIL1100,AL4,2025-01-05T23:50:39.817020,Reading light flicker above seat 32F,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1596,TAIL1035,AL4,2025-01-05T15:31:39.243945,Cabin light flickering near row 4,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2007,TAIL1058,AL4,2025-01-05T08:58:23.790370,Cabin light flickering near row 34,33-LIGHT,lighting,malfunction,Low,cabin_rear
+FL3056,TAIL1118,AL4,2025-01-06T08:40:08.479799,Reading light in row 4 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2519,TAIL1088,AL4,2025-01-03T16:14:06.935027,Reading light flicker above seat 11w,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1777,TAIL1045,AL4,2025-01-04T09:42:56.885449,Reading light in row 20 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5011,TAIL1230,AL4,2025-01-04T22:31:12.268200,Cabin lyght flickering near row 7,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3128,TAIL1122,AL4,2025-01-04T17:34:32.843292,Beobachtung: Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4627,TAIL1209,AL4,2025-01-05T16:16:32.699930,Beokachtung: Moisture around sink area MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1789,TAIL1046,AL4,2025-01-04T03:48:28.554022,Beobachtung: Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL1550,TAIL1032,AL4,2025-01-05T18:52:01.246407,Beobachtung: Galley sink leak at MID_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5570,TAIL1263,AL4,2025-01-04T16:47:15.813034,Beobachxung: Small leak detected in FWD_GALLEY siek,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5787,TAIL1274,AL4,2025-01-04T19:21:37.142642,Beobachtung: Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL1064,TAIL1003,AL4,2025-01-05T20:56:50.798271,Beobachtung: Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL5250,TAIL1244,AL4,2025-01-04T19:36:16.221199,Beobachtung: Panel light intermittent neau L2,33-LIGHT,lighting,malfunction,High,door_area
+FL3668,TAIL1154,AL4,2025-01-07T21:38:22.628856,Beobachtung: Light panel near R2 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL5342,TAIL1250,AL4,2025-01-03T20:04:16.728665,Beobachtung: Panel light intermittent near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL3355,TAIL1135,AL4,2025-01-03T06:55:08.757649,Bezbachtung: Panel light flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL4783,TAIL1217,AL4,2025-01-06T22:08:20.390068,Beobachtung: Panel lmght flicker near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL4769,TAIL1217,AL4,2025-01-03T01:20:11.550903,Beobachtung: Panel light flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL1547,TAIL1032,AL4,2025-01-04T10:45:17.514159,Beobachtung: Panel light intermittent near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL5760,TAIL1272,AL1,2025-01-05T23:00:43.519958,Beobachtung: Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL2354,TAIL1079,AL1,2025-01-03T02:02:04.747184,Beobachtung: Boiler temp fluctuating in kID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5411,TAIL1253,AL1,2025-01-04T15:39:03.677126,Beobachtung: Hot water inconsistent at rFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL2685,TAIL1097,AL1,2025-01-05T17:59:46.572216,Beobachtung: Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5831,TAIL1276,AL1,2025-01-06T21:16:58.976190,Beobachtung: Watrr boileo temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1095,TAIL1005,AL1,2025-01-04T06:50:44.018325,ieobachtung: Boiler temp fluctuating in MID_GoLLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5228,TAIL1242,AL1,2025-01-05T10:33:26.159551,Beobachtung: Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5848,TAIL1277,AL1,2025-01-04T23:13:22.308038,Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL6130,TAIL1292,AL1,2025-01-03T18:25:22.370395,Hqt water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL2613,TAIL1092,AL1,2025-01-08T04:31:42.830819,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4145,TAIL1182,AL1,2025-01-02T13:00:00,Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL3424,TAIL1139,AL1,2025-01-07T03:41:28.103222,Boiler temp fluctuating in FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL6153,TAIL1293,AL1,2025-01-05T19:44:53.403790,Water boiler temn unstable at MID_GhLLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5852,TAIL1277,AL1,2025-01-06T00:59:57.567753,Hot water inconsictent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL5358,TAIL1250,AL4,2025-01-07T22:03:32.726054,Galley equipment heat alarm in AFT_GALLEs,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL4065,TAIL1176,AL4,2025-01-08T21:51:15.893639,Galley equipmynt heat yoarm in MID_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4057,TAIL1176,AL4,2025-01-06T17:21:13.259250,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5430,TAIL1255,AL4,2025-01-01T13:00:00,Galley equipment heat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL3916,TAIL1169,AL4,2025-01-02T15:00:00,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3120,TAIL1122,AL4,2025-01-02T17:46:08.523810,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3664,TAIL1154,AL4,2025-01-06T17:02:07.701558,Galley oven overheatipe during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4994,TAIL1229,AL4,2025-01-06T17:41:24.450347,Hot water inconsistlnt at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5896,TAIL1279,AL4,2025-01-02T12:46:51.167380,Water boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4718,TAIL1214,AL4,2025-01-05T22:21:17.495373,Hpt water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL1126,TAIL1007,AL4,2025-01-04T23:34:51.743340,Water boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4768,TAIL1217,AL4,2025-01-02T15:00:00,Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL2336,TAIL1078,AL4,2025-01-07T20:29:06.233256,Boiler temp fluctuatihg in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5191,TAIL1240,AL4,2025-01-04T21:32:54.249519,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5733,TAIL1270,AL3,2025-01-08T01:00:06.551258,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1525,TAIL1031,AL3,2025-01-02T20:17:58.695172,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1228,TAIL1014,AL3,2025-01-02T22:19:18.078175,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL6185,TAIL1295,AL3,2025-01-02T01:18:40.127847,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL2492,TAIL1086,AL3,2025-01-05T09:41:58.606986,Moisture around sink area MtD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4010,TAIL1173,AL3,2025-01-06T18:28:25.668103,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5208,TAIL1241,AL3,2025-01-07T11:40:09.830992,Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL3710,TAIL1157,AL2,2025-01-05T21:02:08.457014,Panel ligth untermittent near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2267,TAIL1074,AL2,2025-01-04T18:58:04.684271,Cabij ligth flickering near row 19,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5982,TAIL1283,AL2,2025-01-08T04:18:37.694716,Panel ligth intermhttent near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL1247,TAIL1015,AL2,2025-01-02T11:00:52.297320,Reading ligth in row 21 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5467,TAIL1257,AL2,2025-01-04T10:30:01.769590,Panel ligth intermittent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5451,TAIL1256,AL2,2025-01-04T06:51:23.727500,Reading ligth in roa 20 intermitteot,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4748,TAIL1216,AL2,2025-01-01T19:45:20.626744,hanel ligth flicker near L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4353,TAIL1193,AL2,2025-01-06T19:03:18.460547,Catering trolley locw jammed in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3084,TAIL1120,AL2,2025-01-04T04:00:00,Teolley cannot be secured near MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3733,TAIL1158,AL2,2025-01-08T02:45:01.344445,Coffee maker temperature low at FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1177,TAIL1011,AL2,2025-01-02T05:00:00,Coffee maker temperature low at AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL5626,TAIL1265,AL2,2025-01-08T00:32:52.822606,Catering trolley lock jammed in AFT_GrLLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL4083,TAIL1178,AL2,2025-01-03T02:12:49.313896,Catering trolley lock jemmed in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL6090,TAIL1289,AL2,2025-01-07T12:05:08.803607,Trolley cannot be secured near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4074,TAIL1177,AL2,2025-01-05T05:51:08.321144,weobachtung: Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5450,TAIL1256,AL2,2025-01-04T04:22:48.126395,Beobachtung: Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL3093,TAIL1120,AL2,2025-01-06T12:42:19.175598,Beobachtung: Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL4468,TAIL1200,AL2,2025-01-03T21:09:43.511859,Beobachtung: Smasl leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2165,TAIL1067,AL2,2025-01-05T19:17:14.221884,Beobachtung: Moisturj around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5321,TAIL1249,AL2,2025-01-04T19:06:59.639046,Beobachtung: Small leak detected in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5611,TAIL1265,AL2,2025-01-03T23:49:27.412378,Beobachtung: Moasture agound sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL3518,TAIL1146,AL2,2025-01-03T02:00:00,iven in MID_GALLEY shols error E2,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4465,TAIL1200,AL2,2025-01-03T06:00:00,Catering trolvey lock jamaed in FWD_GAtLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3793,TAIL1162,AL2,2025-01-07T00:54:42.914160,Coffee maker error in FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL1473,TAIL1028,AL2,2025-01-03T10:36:57.395151,Troljey latch loose near AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL4926,TAIL1226,AL2,2025-01-01T12:00:00,Coffee maker temperature low at MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4066,TAIL1177,AL2,2025-01-02T13:00:00,Trolley cannot be secured near AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL3892,TAIL1167,AL2,2025-01-07T08:02:12.600425,Galley equipment heat alarm in FWp_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3092,TAIL1120,AL2,2025-01-06T05:58:15.057940,Seat 21F movement restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3789,TAIL1162,AL2,2025-01-05T15:42:01.266083,Seat 2D cushion loose,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2279,TAIL1075,AL2,2025-01-03T14:38:52.239621,Seat 30E hard to adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1494,TAIL1029,AL2,2025-01-03T07:07:25.956006,Seat 18E cushion needs fiximg,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4477,TAIL1200,AL2,2025-01-06T12:58:37.638975,Sxat 29C cusdion loose,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3904,TAIL1168,AL2,2025-01-05T22:34:23.552333,Seat 31D cover misaligned,25-SEAT,seat,malfunction,Low,cabin_mid
+FL6011,TAIL1285,AL2,2025-01-04T17:07:30.305624,Seat 23A reclbne stuck,25-SEAT,seat,malfunction,Low,cabin_mid
+FL2073,TAIL1062,AL2,2025-01-06T02:33:07.465399,Boiler temp fluctuating in FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4759,TAIL1216,AL2,2025-01-04T17:52:37.852062,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL5463,TAIL1256,AL2,2025-01-08T16:24:11.461824,Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3608,TAIL1150,AL2,2025-01-06T13:20:55.372007,Small leak detected in FWD_GALuEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1919,TAIL1053,AL2,2025-01-05T17:09:48.039110,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2170,TAIL1067,AL2,2025-01-07T00:18:19.504569,Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL6252,TAIL1298,AL2,2025-01-05T06:55:24.442954,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL2228,TAIL1072,AL2,2025-01-04T17:21:17.160860,Beobachtung: Trouley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL1476,TAIL1028,AL2,2025-01-04T10:17:19.544710,Beobachtung: Galley equipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL6089,TAIL1289,AL2,2025-01-07T06:28:16.005055,Beobachtung: Coffee maker temperature low at FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL3459,TAIL1142,AL2,2025-01-04T04:32:08.729999,Beopachtung: Coffee maker error in FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5741,TAIL1271,AL2,2025-01-04T14:58:31.288227,Beobachtung: Coffee maker temperature low at AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL4354,TAIL1193,AL2,2025-01-07T04:05:06.049376,Beobachtung: Catering trolley lock jammed in MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2921,TAIL1110,AL2,2025-01-09T00:10:17.940005,Beobachtupg: Coffee maker drror in AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL2259,TAIL1074,AL2,2025-01-02T23:23:44.950848,Coffee maker temperature low at FWD_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL6035,TAIL1286,AL2,2025-01-07T03:23:05.178643,Coffee maker error in MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL2068,TAIL1062,AL2,2025-01-04T18:52:28.161116,Catering trolley lock jztmed in MID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL4074,TAIL1177,AL2,2025-01-05T05:51:08.321144,Galley equipment hewt alarm in FWD_GALLEv,38-GALLEY,galley,malfunction,High,cabin_mid
+FL1491,TAIL1029,AL2,2025-01-02T14:21:13.423690,Trolley latch loose negr AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL2965,TAIL1113,AL2,2025-01-06T08:46:42.489000,Coffee maker tempeyature low at AFT_GALLEY,38-GALLEY,galley,malfunction,High,cabin_rear
+FL4299,TAIL1190,AL2,2025-01-05T03:28:09.222376,Coffee flow irregular in lID_GALLEY,38-GALLEY,galley,malfunction,High,cabin_mid
+FL5524,TAIL1260,AL2,2025-01-04T08:49:14.633486,Beobachtung: Buzzing sound gear rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL2158,TAIL1067,AL2,2025-01-03T02:32:28.817996,Beobachtung: Panel makes creak sound at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL5087,TAIL1235,AL2,2025-01-02T20:00:00,Beobachtung: Panel makes creak sound at R2,25-PANEL,panel,malfunction,Medium,door_area
+FL2389,TAIL1081,AL2,2025-01-04T15:13:01.745162,Beobachtung: Buzzing sound neas rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL5631,TAIL1265,AL2,2025-01-09T16:48:33.492328,Beobachtung: Buzzing sound near rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL3765,TAIL1160,AL2,2025-01-04T23:14:12.843321,Beobachtung: Rattle noise near R2 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL2076,TAIL1062,AL2,2025-01-06T18:21:41.207466,Beobachtung: Rattle noise near w2 during taxi,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL6035,TAIL1286,AL2,2025-01-07T03:23:05.178643,Beobachtung: Buzzing sound near rear gallef,25-PANEL,panel,malfunction,High,cabin_mid
+FL6244,TAIL1298,AL2,2025-01-03T02:32:55.443182,Beobachtung: Buzzing ilund near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL5627,TAIL1265,AL2,2025-01-08T13:02:09.985299,Beobachtung: Rattle noise near L1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL6057,TAIL1288,AL2,2025-01-04T03:03:52.662183,Beobachtung: ouzzing iound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL3896,TAIL1168,AL2,2025-01-04T06:24:13.382699,Beobachtung: Panel vibration heard near R2,25-PANEL,panel,malfunction,High,door_area
+FL5280,TAIL1245,AL2,2025-01-07T20:02:49.845979,Beobachtung: Panel fitment loose near R2,25-PANEL,panel,malfunction,High,door_area
+FL4471,TAIL1200,AL2,2025-01-04T13:47:18.972770,Beobachtung: Creaking panel near L2,25-PANEL,panel,malfunction,High,door_area
+FL4310,TAIL1190,AL2,2025-01-07T21:36:22.027013,Beobachtung: Sitz 3E hary to adjust,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3784,TAIL1162,AL2,2025-01-04T06:47:14.910352,Beobachtung: Sitz 1F rccline not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3758,TAIL1160,AL2,2025-01-03T04:00:08.383442,Beobachtung: Passenger repomqs seat 29E recline failure,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4372,TAIL1194,AL2,2025-01-04T03:05:27.766537,Beobachtung: Sitz 6D recline not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4066,TAIL1177,AL2,2025-01-02T13:00:00,Beobachtung: Sitz 34B jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3203,TAIL1127,AL2,2025-01-04T18:21:19.933889,Beobachtung: Sitz 12A cwshion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3603,TAIL1150,AL2,2025-01-04T19:49:34.809043,Beobachtung: Siiz 31B cushion needs fixvng,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5479,TAIL1257,AL2,2025-01-07T22:23:04.876592,Beobachtung: Trolleo cannot be secured near MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL4839,TAIL1221,AL2,2025-01-03T07:00:00,Beobachtung: Trolley latch loose near FjD_GhLLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3601,TAIL1150,AL2,2025-01-04T04:03:03.366650,Beobachtung: Catering trolley lock jammed in FWD_lALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL6026,TAIL1286,AL2,2025-01-04T06:12:19.438730,Beobachtung: Trolley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2071,TAIL1062,AL2,2025-01-05T15:13:31.909591,Beobachtung: Trolley cannot be secured njar FWD_GALLpY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3004,TAIL1115,AL2,2025-01-06T13:00:09.849890,Beobachtung: Catering trolley lock jammed tn MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL5151,TAIL1238,AL2,2025-01-06T11:33:10.695037,Beobachtung: Trolley cannot be secured near FWD_GAoLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL5020,TAIL1231,AL2,2025-01-03T03:52:32.419017,Cabin light flickering near row 9,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5547,TAIL1261,AL2,2025-01-07T12:27:04.970972,Cabin light flickering near row 35,33-LIGHT,lighting,malfunction,Medium,cabin_rear
+FL1494,TAIL1029,AL2,2025-01-03T07:07:25.956006,Panel lrght flicker near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5622,TAIL1265,AL2,2025-01-06T16:10:34.664320,Cabin light flickering near row 21,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5325,TAIL1249,AL2,2025-01-06T06:36:50.646875,Panel light intyrmiitent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3206,TAIL1127,AL2,2025-01-05T11:24:08.332221,Panel light flicker near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5481,TAIL1257,AL2,2025-01-08T15:05:58.832930,Panel light iztermimtent near L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3728,TAIL1158,AL2,2025-01-06T17:13:33.358749,Creaking panel near L2,25-PANEL,panel,malfunction,Medium,door_area
+FL4849,TAIL1221,AL2,2025-01-06T04:40:45.163396,Panel makes creak sound at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL3795,TAIL1162,AL2,2025-01-07T09:50:58.604146,Buzzing sound near rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL2160,TAIL1067,AL2,2025-01-03T21:18:41.034795,Buzzing sound near rear galley,25-PANEL,panel,malfunction,Medium,cabin_mid
+FL5029,TAIL1231,AL2,2025-01-06T01:08:11.985668,Panel vibration heard near R1,25-PANEL,panel,malfunction,Medium,door_area
+FL1207,TAIL1012,AL2,2025-01-06T10:00:12.525258,Panel makes creak sound at R1,25-PANEL,panel,malfunction,Medium,door_area
+FL4311,TAIL1190,AL2,2025-01-08T01:19:42.995218,Panel makes creak sound at L2,25-PANEL,panel,malfunction,Medium,door_area
+FL1271,TAIL1016,AL2,2025-01-05T08:15:38.880182,Galley equipment heat alarm in MID_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5149,TAIL1238,AL2,2025-01-05T16:55:19.958648,Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL2910,TAIL1110,AL2,2025-01-04T20:45:53.374291,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4070,TAIL1177,AL2,2025-01-04T02:42:51.320466,Galley equipment heat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL1934,TAIL1053,AL2,2025-01-09T14:34:37.465543,Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL3607,TAIL1150,AL2,2025-01-06T05:17:29.683538,Oven in FWD_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1184,TAIL1011,AL2,2025-01-04T12:24:06.594467,Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL1267,TAIL1016,AL2,2025-01-04T09:51:36.589517,Seat 18E jammed auring taxi,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3904,TAIL1168,AL2,2025-01-05T22:34:23.552333,Seat 7A recilne not working,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1485,TAIL1028,AL2,2025-01-06T19:01:45.953889,Seat 28A moviment restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1470,TAIL1028,AL2,2025-01-02T08:00:00,Seat 30E recilne not working,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1481,TAIL1028,AL2,2025-01-05T14:37:38.547907,Seat 13C movement restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4071,TAIL1177,AL2,2025-01-04T14:15:11.848697,Seat 33A cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5332,TAIL1249,AL2,2025-01-08T01:16:14.279818,Seat 7C cuxhion loose,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3004,TAIL1115,AL2,2025-01-06T13:00:09.849890,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4306,TAIL1190,AL2,2025-01-06T22:08:17.884429,Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_rear
+FL5465,TAIL1257,AL2,2025-01-03T23:20:40.563455,Galley sink leak ak MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL4840,TAIL1221,AL2,2025-01-03T15:56:47.712528,Galley sink leak at tIz_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL3901,TAIL1168,AL2,2025-01-05T02:23:49.343750,Water boiler temp unstable at MID_GALLuY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL6008,TAIL1284,AL2,2025-01-07T20:56:19.156762,dot waker inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL6070,TAIL1288,AL2,2025-01-08T09:25:40.200555,Moisture arounw sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Medium,cabin_mid
+FL1181,TAIL1011,AL2,2025-01-03T14:07:52.526907,Seat 20D hard to adjust,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4475,TAIL1200,AL2,2025-01-06T01:26:13.412229,Seat 12C hard to adjust,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5092,TAIL1235,AL2,2025-01-04T09:40:39.085742,Passenger reports seat 19F recilne failure,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL6086,TAIL1289,AL2,2025-01-06T09:28:44.074790,Seat 13A movemenb restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1257,TAIL1015,AL2,2025-01-05T05:28:48.708977,Seat 4F recilne stuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5463,TAIL1256,AL2,2025-01-08T16:24:11.461824,Seat 27E cushion loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2430,TAIL1083,AL2,2025-01-05T21:52:01.491535,Seat 19D recilne qtuck,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL2166,TAIL1067,AL2,2025-01-05T21:44:48.120283,Beobachrung: Sitz 22B cushion needs fixing,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1502,TAIL1029,AL2,2025-01-05T02:01:39.414303,Beobachtung: Sitz 26A cushion loose,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3004,TAIL1115,AL2,2025-01-06T13:00:09.849890,Beobachtung: Sitz 32E hard to adjust,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4369,TAIL1194,AL2,2025-01-02T17:57:23.813187,Beobadhtung: Sitz 11D recline not working,25-SEAT,seat,malfunction,Low,cabin_mid
+FL5621,TAIL1265,AL2,2025-01-06T10:09:04.600182,Beobachtung: Sitz 18D movemevt restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL4355,TAIL1193,AL2,2025-01-07T07:39:49.969446,Beobachtung: Sitz 17E movement restricteo,25-SEAT,seat,malfunction,Low,cabin_mid
+FL1939,TAIL1053,AL2,2025-01-11T11:41:59.597130,Beobachtung: Sitz 28E movement restricted,25-SEAT,seat,malfunction,Low,cabin_mid
+FL3433,TAIL1140,AL2,2025-01-05T08:27:33.207248,Creaking panel near L1,25-PANEL,panel,malfunction,High,door_area
+FL2066,TAIL1062,AL2,2025-01-04T07:11:15.902196,Buzzing sound near rear galley,25-PANEL,panel,malfunction,High,cabin_mid
+FL3151,TAIL1124,AL2,2025-01-05T07:12:06.432125,Buzzing sound near rear gulley,25-PANEL,panel,malfunction,High,cabin_mid
+FL1193,TAIL1012,AL2,2025-01-02T05:07:33.032778,Pqnel vibration heard near L1,25-PANEL,panel,malfunction,High,door_area
+FL6065,TAIL1288,AL2,2025-01-07T03:09:03.140696,Rattle noise near L1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL2911,TAIL1110,AL2,2025-01-05T00:48:27.540633,Panel vibration heard near L1,25-PANEL,panel,malfunction,High,door_area
+FL3792,TAIL1162,AL2,2025-01-06T13:46:15.484477,Creaking panel near R1,25-PANEL,panel,malfunction,High,door_area
+FL2912,TAIL1110,AL2,2025-01-05T09:40:23.814946,Hot wauer inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5734,TAIL1271,AL2,2025-01-02T10:00:00,Boiler temp fluctuatinw in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL5267,TAIL1245,AL2,2025-01-03T22:00:00,Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL3520,TAIL1146,AL2,2025-01-03T18:46:19.732996,Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2160,TAIL1067,AL2,2025-01-03T21:18:41.034795,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2917,TAIL1110,AL2,2025-01-07T08:42:29.398695,Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL4943,TAIL1226,AL2,2025-01-05T23:23:39.456965,Boiler temp fluctuatwng in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL3435,TAIL1140,AL2,2025-01-06T06:14:35.923232,Panel light flicker near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL1679,TAIL1040,AL2,2025-01-03T04:09:08.537575,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL3096,TAIL1120,AL2,2025-01-07T06:44:30.339483,Panel light intermittent near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL4763,TAIL1216,AL2,2025-01-05T18:48:35.733078,Light panel ntar L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL2908,TAIL1110,AL2,2025-01-04T02:45:55.067293,Cabin light flickering near row 27,33-LIGHT,lighting,malfunction,High,cabin_mid
+FL3532,TAIL1146,AL2,2025-01-06T22:42:11.909990,Panel light intermittent neai c2,33-LIGHT,lighting,malfunction,High,cabin_mid
+FL1933,TAIL1053,AL2,2025-01-09T07:26:39.222797,Panel light intermsttent qear R1,33-LIGHT,lighting,malfunction,High,door_area
+FL4070,TAIL1177,AL2,2025-01-04T02:42:51.320466,Beobachtung: Galley oven overteating durilg service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL6249,TAIL1298,AL2,2025-01-04T04:57:53.957419,Beobachtung: Galley equipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2392,TAIL1081,AL2,2025-01-05T10:19:08.233289,Beobachtung: Oven in MID_GALLEY syows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL3893,TAIL1167,AL2,2025-01-07T13:04:18.578584,Beobachtung: Gallvy oven overheating duriyg service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL6068,TAIL1288,AL2,2025-01-07T21:47:47.279628,Beobachtung: Galley equipment heat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL3518,TAIL1146,AL2,2025-01-03T02:00:00,Beobachtudg: Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2425,TAIL1083,AL2,2025-01-04T14:26:52.493848,Beobachtung: Oven in MID_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4357,TAIL1193,AL2,2025-01-08T03:57:35.724266,Beobachtung: Light parel near L2 unstable,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4362,TAIL1193,AL2,2025-01-09T20:04:57.246375,Beobachtqng: Panel light flicker near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3285,TAIL1131,AL2,2025-01-03T02:30:25.090893,Beobachtung: Panel light flicker near R1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL1254,TAIL1015,AL2,2025-01-04T05:56:02.226782,Beobachtung: Panel light flicker near R1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL3096,TAIL1120,AL2,2025-01-07T06:44:30.339483,Beobachtung: Cabin light flickering near Reihe 34,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL6004,TAIL1284,AL2,2025-01-06T18:13:22.771859,Beobachtung: Reading light flicker abrvh seat 23C,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5323,TAIL1249,AL2,2025-01-05T10:56:49.277127,Beobachtung: wight panel near R1 ulstable,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2270,TAIL1074,AL2,2025-01-05T21:19:04.392020,Rattle noise near L2 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL4302,TAIL1190,AL2,2025-01-06T04:36:39.109127,Creaking panil near L2,25-PANEL,panel,malfunction,High,door_area
+FL2395,TAIL1081,AL2,2025-01-06T12:02:29.985791,Rattle noise near R1 during taxi,25-PANEL,panel,malfunction,High,door_area
+FL3432,TAIL1140,AL2,2025-01-05T00:11:10.276845,Rattle noise near L1 during xaxi,25-PANEL,panel,malfunction,High,door_area
+FL3438,TAIL1140,AL2,2025-01-07T02:48:37.593076,Panel vibration heard near R1,25-PANEL,panel,malfunction,High,door_area
+FL6083,TAIL1289,AL2,2025-01-05T20:07:58.147991,Panel fitment loose near R2,25-PANEL,panel,malfunction,High,door_area
+FL6011,TAIL1285,AL2,2025-01-04T17:07:30.305624,Panel vibration seard near L1,25-PANEL,panel,malfunction,High,door_area
+FL1199,TAIL1012,AL2,2025-01-03T23:03:04.917553,Panel makes creak sound at R1,25-PANEL,panel,malfunction,Medium,door_area
+FL5997,TAIL1284,AL2,2025-01-04T12:46:55.158042,Panei makes creak sound at R2,25-PANEL,panel,malfunction,Medium,door_area
+FL5330,TAIL1249,AL2,2025-01-07T10:47:48.179389,Rattle noise near R2 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL5979,TAIL1283,AL2,2025-01-07T12:46:59.097006,Panel vibration heard near R2,25-PANEL,panel,malfunction,Medium,door_area
+FL5937,TAIL1281,AL2,2025-01-04T01:11:30.245470,Panel vibration heard near R2,25-PANEL,panel,malfunction,Medium,door_area
+FL4364,TAIL1193,AL2,2025-01-10T06:22:56.235163,Rattle nfise near R1 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL4763,TAIL1216,AL2,2025-01-05T18:48:35.733078,Rattle noise near L2 during taxi,25-PANEL,panel,malfunction,Medium,door_area
+FL2969,TAIL1113,AL2,2025-01-07T20:21:30.023992,Seat 15D cover misaligned,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL4748,TAIL1216,AL2,2025-01-01T19:45:20.626744,Seat 10B movement restricted,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3617,TAIL1151,AL2,2025-01-06T12:19:49.751931,Seat 6C recline not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL5093,TAIL1235,AL2,2025-01-04T14:39:45.696405,Seat 35F cushiun loose,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL3100,TAIL1120,AL2,2025-01-08T05:54:14.745507,Seat 26E hard to adjust,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1931,TAIL1053,AL2,2025-01-08T14:11:07.978813,Seat 33B jammed during taxi,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL1248,TAIL1015,AL2,2025-01-02T16:36:30.068258,Seat 32C recline not working,25-SEAT,seat,malfunction,Medium,cabin_mid
+FL6036,TAIL1286,AL2,2025-01-07T16:33:48.539811,Galley sink leak at MID_GAbLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL2231,TAIL1072,AL2,2025-01-05T16:27:00.300463,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5152,TAIL1238,AL2,2025-01-06T21:22:36.726459,Moizture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4072,TAIL1177,AL2,2025-01-04T21:41:11.058095,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3097,TAIL1120,AL2,2025-01-07T11:55:33.283386,Moisture aromnd sink area AFT_GALLEn,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL1855,TAIL1049,AL2,2025-01-07T18:28:58.659017,Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL6000,TAIL1284,AL2,2025-01-05T08:19:24.061836,Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3090,TAIL1120,AL2,2025-01-05T14:25:04.069686,Reading light in row 22 intermittcnt,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5934,TAIL1281,AL2,2025-01-03T04:12:13.710567,Cabin light flickering near row 25,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4071,TAIL1177,AL2,2025-01-04T14:15:11.848697,Reading light in row 18 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3601,TAIL1150,AL2,2025-01-04T04:03:03.366650,Reading light flicker above seat 20E,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL5546,TAIL1261,AL2,2025-01-07T03:44:22.746997,Cabin light flickering near row 3,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4750,TAIL1216,AL2,2025-01-02T04:56:24.410355,Cabin light flicvering near row 22,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1684,TAIL1040,AL2,2025-01-04T08:49:53.047253,Reading light flicker above seat 25E,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4307,TAIL1190,AL2,2025-01-07T01:26:46.685265,Catering trolley lock jammed in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL2396,TAIL1081,AL2,2025-01-06T16:14:36.051059,Coffee flow irregular in MID_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL5278,TAIL1245,AL2,2025-01-07T04:10:59.252531,Catering trolley loek jammed ie AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL4376,TAIL1194,AL2,2025-01-05T07:27:36.271943,Coffee maker error in FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL3915,TAIL1168,AL2,2025-01-08T17:02:40.516695,Trolley latch loose near FWD_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL1684,TAIL1040,AL2,2025-01-04T08:49:53.047253,Copfee maker yemperature low at MId_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_mid
+FL5622,TAIL1265,AL2,2025-01-06T16:10:34.664320,Coffee maker temperature low at AFT_GALLEY,38-GALLEY,galley,malfunction,Medium,cabin_rear
+FL3889,TAIL1167,AL2,2025-01-06T12:27:36.461044,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5983,TAIL1283,AL2,2025-01-08T09:39:02.267609,Oven in AFT_GALLEY shows error E2,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL4840,TAIL1221,AL2,2025-01-03T15:56:47.712528,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL5529,TAIL1260,AL2,2025-01-05T19:45:52.341815,Galley eqwipment heat alarm in FWD_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL1689,TAIL1040,AL2,2025-01-05T19:03:25.704131,Galley oven overheating during service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL4470,TAIL1200,AL2,2025-01-04T09:16:44.660382,Galley oven overheating durikg service,38-GALLEY,galley,malfunction,Critical,cabin_mid
+FL2973,TAIL1113,AL2,2025-01-08T22:56:14.791942,Galley equipment heat alarm in AFT_GALLEY,38-GALLEY,galley,malfunction,Critical,cabin_rear
+FL4374,TAIL1194,AL2,2025-01-04T13:52:18.437751,Light panel near L1 unstable,33-LIGHT,lighting,malfunction,High,door_area
+FL5458,TAIL1256,AL2,2025-01-06T23:15:57.063878,Panel ligth flicker near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL5627,TAIL1265,AL2,2025-01-08T13:02:09.985299,Light panel near L2 unstablo,33-LIGHT,lighting,malfunction,High,door_area
+FL5740,TAIL1271,AL2,2025-01-04T05:04:12.023282,Panel ligth fhicker near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL4368,TAIL1194,AL2,2025-01-02T14:00:00,Panel ligth flicker near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL1939,TAIL1053,AL2,2025-01-11T11:41:59.597130,Panel ligtd flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL4071,TAIL1177,AL2,2025-01-04T14:15:11.848697,Panel ligth flicker near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL2430,TAIL1083,AL2,2025-01-05T21:52:01.491535,Beobachtung: Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3095,TAIL1120,AL2,2025-01-07T03:09:16.437354,Beobachtung: Boiler tejp fluctuatvng in pWd_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5030,TAIL1231,AL2,2025-01-06T09:19:52.989654,Beobachtung: Boiler temp fluctugting in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL1677,TAIL1040,AL2,2025-01-02T20:00:00,Beobachtung: Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL6079,TAIL1289,AL2,2025-01-04T11:50:46.702223,Beobachtcng: Hot water inconskstent at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3156,TAIL1124,AL2,2025-01-06T11:40:19.693710,Beobachturg: Water boiler tejp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL3610,TAIL1151,AL2,2025-01-04T04:57:30.484775,Beobachtung: Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL2162,TAIL1067,AL2,2025-01-04T17:50:04.846771,Boiler temp fluctuating in FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL2432,TAIL1083,AL2,2025-01-06T08:44:20.940923,Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL6076,TAIL1289,AL2,2025-01-03T15:18:58.496820,Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,High,cabin_rear
+FL1838,TAIL1049,AL2,2025-01-03T06:02:04.588917,Hot water inconsistent at rID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5280,TAIL1245,AL2,2025-01-07T20:02:49.845979,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL5933,TAIL1281,AL2,2025-01-02T23:00:00,Wcter boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1847,TAIL1049,AL2,2025-01-05T08:57:21.535425,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,High,cabin_mid
+FL1495,TAIL1029,AL2,2025-01-03T12:27:45.116659,Small leak detected in FWD_GAdLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5094,TAIL1235,AL2,2025-01-04T22:04:13.263204,Moisture around sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3700,TAIL1157,AL2,2025-01-02T16:19:14.787885,Small oeak deterted in AFT_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL3282,TAIL1131,AL2,2025-01-01T20:28:12.398096,Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL6007,TAIL1284,AL2,2025-01-07T12:25:55.777702,Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL3518,TAIL1146,AL2,2025-01-03T02:00:00,Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4375,TAIL1194,AL2,2025-01-04T21:26:03.740725,Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4345,TAIL1193,AL2,2025-01-04T17:27:59.750953,Wpter boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL5139,TAIL1238,AL2,2025-01-02T22:00:00,Water boiler temp unstable at AFT_GrLLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL3438,TAIL1140,AL2,2025-01-07T02:48:37.593076,Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4353,TAIL1193,AL2,2025-01-06T19:03:18.460547,Water boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4084,TAIL1178,AL2,2025-01-03T05:06:06.192386,Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1262,TAIL1016,AL2,2025-01-02T21:45:22.336636,Water boiler temp unstablq at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1491,TAIL1029,AL2,2025-01-02T14:21:13.423690,Water boiler temp unstable at AFT_GALuEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL6017,TAIL1285,AL2,2025-01-06T19:38:15.548402,Beobachtung: Pansl light fiicker near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL5322,TAIL1249,AL2,2025-01-05T03:43:03.521899,Beobachtung: Panel light intermittent near R1,33-LIGHT,lighting,malfunction,High,door_area
+FL3101,TAIL1120,AL2,2025-01-08T13:56:15.841510,Beobachtung: Light panel near R2 unsfable,33-LIGHT,lighting,malfunction,High,door_area
+FL3880,TAIL1167,AL2,2025-01-04T12:46:51.386022,Beobvchtung: Panel light intermittent near L1,33-LIGHT,lighting,malfunction,High,door_area
+FL5460,TAIL1256,AL2,2025-01-07T20:25:56.130709,Beobachtung: Panel light intermittent near L2,33-LIGHT,lighting,malfunction,High,door_area
+FL2262,TAIL1074,AL2,2025-01-03T14:59:23.052588,Beobachtukg: Panel light flicker near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL5274,TAIL1245,AL2,2025-01-06T03:34:22.462349,Beobachtung: Panel light flicker near R2,33-LIGHT,lighting,malfunction,High,door_area
+FL1927,TAIL1053,AL2,2025-01-07T09:10:25.453133,Beobaphtung: Galley sink leak at AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4344,TAIL1193,AL2,2025-01-04T11:36:49.269515,Beobachtung: Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL1208,TAIL1012,AL2,2025-01-06T16:45:30.653153,Beobachtung: Moisture arounx sink area FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL4465,TAIL1200,AL2,2025-01-03T06:00:00,Beobacetung: Moisture around sink area AFT_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_rear
+FL4472,TAIL1200,AL2,2025-01-05T02:39:54.514963,Bembachtung: Galley sink leak at FWD_GALLEY,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5154,TAIL1238,AL2,2025-01-07T09:08:04.601951,Beobachtung: Small leat detected in FzD_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL3719,TAIL1158,AL2,2025-01-04T09:48:37.667361,Beobachtung: Small leak detected in MID_GALLEY sink,38-WATER,water_waste,malfunction,Low,cabin_mid
+FL5941,TAIL1281,AL2,2025-01-04T16:00:04.608512,Reading ligth flicker above seat 32B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3730,TAIL1158,AL2,2025-01-07T08:13:26.777915,Cabin ligth flickering near row 34,33-LIGHT,lighting,malfunction,Low,cabin_rear
+FL5734,TAIL1271,AL2,2025-01-02T10:00:00,Reading ligth flicker above seat 7C,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1202,TAIL1012,AL2,2025-01-05T01:48:48.749567,Reading ligth flicker above seat 18D,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2401,TAIL1081,AL2,2025-01-08T01:11:17.277418,Reading ligth flicker above seat 34B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4299,TAIL1190,AL2,2025-01-05T03:28:09.222376,Reading ligth flicker abovn seat 7E,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1853,TAIL1049,AL2,2025-01-07T00:08:52.536325,Reading ligth flicker above seat 20B,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1401,TAIL1023,AL3,2025-01-04T09:19:36.441450,Beobachtung: Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3452,TAIL1141,AL3,2025-01-06T13:17:51.199793,Beobachtung: Boiler temp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL2026,TAIL1060,AL3,2025-01-02T15:53:38.260515,Beobachtung: Hot water tnconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4726,TAIL1215,AL3,2025-01-03T15:07:00.536059,Beobachiung: Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL3443,TAIL1141,AL3,2025-01-03T02:00:00,Beobaphtung: Boiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3626,TAIL1152,AL3,2025-01-03T04:00:00,Beobachtung: Hot water inconsistent at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5233,TAIL1243,AL3,2025-01-03T20:51:55.716704,Beobachtung: Hot water inconsistent az MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4472,TAIL1200,AL2,2025-01-05T02:39:54.514963,Beobadhtgng: Readiqg light flicker above seat 9E,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3159,TAIL1124,AL2,2025-01-07T05:20:19.726614,Beobachtung: Reading light flicker above seat 13E,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL1848,TAIL1049,AL2,2025-01-05T13:45:34.717027,Beobachtung: Reading light in Reihe 18 intermittent,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4844,TAIL1221,AL2,2025-01-04T15:50:18.809722,Beobachtung: Cabin light flickering near Reihe 13,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3210,TAIL1127,AL2,2025-01-06T09:58:39.902381,Beobachtung: Cabin light flickering near Reihe 4,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL3609,TAIL1151,AL2,2025-01-04T01:00:00,Beobachtung: fabin light flickering near Reiha 19,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL4928,TAIL1226,AL2,2025-01-02T01:12:08.497777,Beobachtung: Reading light flicker abtve seat 35c,33-LIGHT,lighting,malfunction,Low,cabin_mid
+FL2259,TAIL1074,AL2,2025-01-02T23:23:44.950848,Boiler tepp fluctuating in AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL2276,TAIL1075,AL2,2025-01-02T21:00:00,Water boiler temp unstsble at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL5333,TAIL1249,AL2,2025-01-08T06:57:14.661313,Hot water inconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1269,TAIL1016,AL2,2025-01-04T19:22:06.516708,Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL5139,TAIL1238,AL2,2025-01-02T22:00:00,Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL2425,TAIL1083,AL2,2025-01-04T14:26:52.493848,Hot water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL5631,TAIL1265,AL2,2025-01-09T16:48:33.492328,not water inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL3239,TAIL1129,AL4,2025-01-06T00:35:08.736453,Beobacytung: Water boiler temp unstabyp nt MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL4769,TAIL1217,AL4,2025-01-03T01:20:11.550903,Beobachtung: Hot water dnconsistent at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3121,TAIL1122,AL4,2025-01-02T22:43:55.822398,Beobachtung: Boiler temp fluctuating in AFj_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL2693,TAIL1098,AL4,2025-01-03T03:13:43.783133,Beobachtung: Hot eater inconsisjent at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5572,TAIL1263,AL4,2025-01-05T02:39:45.894032,Beobachtung: Water boiler temp unstable at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL5387,TAIL1252,AL4,2025-01-04T04:33:29.904936,Beobachtung: Boiljr temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3213,TAIL1128,AL4,2025-01-02T21:33:05.564453,Beobbchtung: Boiler temp fluctuating in FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL5527,TAIL1260,AL2,2025-01-05T03:56:28.704442,Beobachtung: Boiler temp fluctuating in FWD_bALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL6066,TAIL1288,AL2,2025-01-07T08:01:22.768656,Beobachtung: Hot water inconsistebt at FWD_GALLiY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL1500,TAIL1029,AL2,2025-01-04T12:51:29.985420,Beobachtung: Water boiler temp unstable at MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL2275,TAIL1074,AL2,2025-01-07T11:04:49.401404,Beobachtung: woiler temp fluctuating in MID_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3148,TAIL1124,AL2,2025-01-04T08:34:12.963992,Beobachtung: Hot gater inconsistent at AFT_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_rear
+FL4944,TAIL1226,AL2,2025-01-06T05:14:11.327928,Beobachtung: Water boiler temp unstable at FWD_GALLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL2924,TAIL1110,AL2,2025-01-09T20:43:13.900569,Beybachtung: bot water inconsistent at MID_GAuLEY,38-WATER,water_waste,malfunction,Critical,cabin_mid
+FL3745,TAIL1159,AL1,2025-01-04T13:10:40.668470,Beobachtung: Cabin light flickering mear Reihe 5,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL6048,TAIL1287,AL1,2025-01-04T18:10:08.963901,Beobachtung: Reading light flicker above seat 19B,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4646,TAIL1210,AL1,2025-01-05T03:49:01.366656,Beobachtung: Reading light flicker above seat 9C,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL1460,TAIL1027,AL1,2025-01-05T10:52:13.317515,Beobachtung: Reaiing light in Reihe 28 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5819,TAIL1276,AL1,2025-01-03T19:05:33.079713,Beomachtung: Panel light blicker near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5826,TAIL1276,AL1,2025-01-06T01:41:28.394888,Beobachtunq: Reading light flicker above seat 33F,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4608,TAIL1208,AL1,2025-01-04T13:52:59.125459,Beobachtung: Cabin light flickering near Reihe 22,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2659,TAIL1095,AL1,2025-01-03T19:57:30.138608,Beobachtuzg: Reading light flicker above seat 14B,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4158,TAIL1182,AL1,2025-01-05T15:31:48.976119,Beobachtung: Panel light intermittent near L1,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4658,TAIL1210,AL1,2025-01-07T17:52:10.970032,Bezbachtung: Reawing light in Reihe 17 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5502,TAIL1258,AL1,2025-01-09T07:05:58.622362,Beobachtung: Reading light flicker above seat 15C,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL1287,TAIL1017,AL1,2025-01-04T14:40:28.717068,Beobachtung: Panel light intermittent near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2601,TAIL1092,AL1,2025-01-05T07:00:52.121718,Beobachtung: Reading light in Reihe 2 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL6144,TAIL1293,AL1,2025-01-03T17:23:08.322244,Bewbachtung: Panel light flicker near L2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL5219,TAIL1242,AL1,2025-01-03T08:54:06.077119,Beobachtung: Panel light intermxttent near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL2712,TAIL1099,AL1,2025-01-05T18:58:23.792444,Beobactcung: Padel light intermittent near R2,33-LIGHT,lighting,malfunction,Medium,door_area
+FL1868,TAIL1050,AL1,2025-01-04T17:38:35.146216,Beobachtung: Readipg light in Reihe 8 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL4096,TAIL1179,AL1,2025-01-04T07:29:59.714720,Beobachtung: Reading light in Reihe 12 indermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2676,TAIL1097,AL1,2025-01-03T09:37:58.084878,Beobachtung: Cabin light flickering near Reihe 6,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL2828,TAIL1105,AL1,2025-01-03T23:57:06.398821,Beobachtung: Reading light flicker above seat 8F,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL5161,TAIL1239,AL1,2025-01-03T10:00:00,Beohachtqng: Cabin light flickering near Reihe 11,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL6156,TAIL1293,AL1,2025-01-06T13:02:08.369171,Beobachtung: Light panel near R1 unstable,33-LIGHT,lighting,malfunction,Medium,door_area
+FL4109,TAIL1179,AL1,2025-01-06T23:11:14.901332,Bpobachtung: Reading light in Reihe 27 intermittent,33-LIGHT,lighting,malfunction,Medium,cabin_mid
+FL3736,TAIL1159,AL1,2025-01-02T02:22:43.744816,Beobachtung: Cabin light flickering near Reihe 21,33-LIGHT,lighting,malfunction,Medium,cabin_mid

@@ -1,0 +1,107 @@
+{
+  "summary": {
+    "train_rows": 63918,
+    "test_rows": 19296,
+    "train_unique_report_texts": 31611,
+    "test_unique_report_texts": 10940,
+    "test_unique_report_texts_seen_in_train": 2618,
+    "test_unique_report_text_overlap_fraction": 0.2393053016453382,
+    "test_rows_seen_in_train": 10810,
+    "test_row_overlap_fraction": 0.5602197346600332,
+    "test_rows_not_seen_in_train": 8486
+  },
+  "label_conflicts": [
+    {
+      "target": "component_code",
+      "unique_report_texts": 44763,
+      "unique_report_texts_with_multiple_labels": 0,
+      "conflict_fraction": 0.0
+    },
+    {
+      "target": "severity",
+      "unique_report_texts": 44763,
+      "unique_report_texts_with_multiple_labels": 3407,
+      "conflict_fraction": 0.0761119674731363
+    },
+    {
+      "target": "location_hint",
+      "unique_report_texts": 44763,
+      "unique_report_texts_with_multiple_labels": 0,
+      "conflict_fraction": 0.0
+    }
+  ],
+  "no_overlap_evaluation": [
+    {
+      "target": "component_code",
+      "eval_subset": "test_all_rows",
+      "n": 19296,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0
+    },
+    {
+      "target": "component_code",
+      "eval_subset": "test_rows_seen_in_train",
+      "n": 10810,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0
+    },
+    {
+      "target": "component_code",
+      "eval_subset": "test_rows_not_seen_in_train",
+      "n": 8486,
+      "accuracy": 1.0,
+      "macro_f1": 1.0,
+      "weighted_f1": 1.0
+    },
+    {
+      "target": "severity",
+      "eval_subset": "test_all_rows",
+      "n": 19296,
+      "accuracy": 0.6849087893864013,
+      "macro_f1": 0.6174161287780462,
+      "weighted_f1": 0.6893585793141693
+    },
+    {
+      "target": "severity",
+      "eval_subset": "test_rows_seen_in_train",
+      "n": 10810,
+      "accuracy": 0.6929694727104533,
+      "macro_f1": 0.6264058647744919,
+      "weighted_f1": 0.6958022767702802
+    },
+    {
+      "target": "severity",
+      "eval_subset": "test_rows_not_seen_in_train",
+      "n": 8486,
+      "accuracy": 0.6746405844921046,
+      "macro_f1": 0.6041707851008702,
+      "weighted_f1": 0.6796802796969719
+    },
+    {
+      "target": "location_hint",
+      "eval_subset": "test_all_rows",
+      "n": 19296,
+      "accuracy": 0.9956467661691543,
+      "macro_f1": 0.9959328440969971,
+      "weighted_f1": 0.9956552644493057
+    },
+    {
+      "target": "location_hint",
+      "eval_subset": "test_rows_seen_in_train",
+      "n": 10810,
+      "accuracy": 0.9991674375578168,
+      "macro_f1": 0.9993020051818376,
+      "weighted_f1": 0.9991677055006096
+    },
+    {
+      "target": "location_hint",
+      "eval_subset": "test_rows_not_seen_in_train",
+      "n": 8486,
+      "accuracy": 0.9911619137402781,
+      "macro_f1": 0.990709313930032,
+      "weighted_f1": 0.9912132984370647
+    }
+  ]
+}

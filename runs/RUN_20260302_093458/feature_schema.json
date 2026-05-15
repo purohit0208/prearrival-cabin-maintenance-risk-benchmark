@@ -1,0 +1,31 @@
+{
+  "numeric_features": [
+    "flight_hours",
+    "passengers",
+    "env_factor",
+    "hours_since_install_seat",
+    "hours_since_install_lighting",
+    "hours_since_install_galley",
+    "hours_since_install_panel",
+    "hours_since_install_water_waste",
+    "cycles_since_install_seat",
+    "cycles_since_install_lighting",
+    "cycles_since_install_galley",
+    "cycles_since_install_panel",
+    "cycles_since_install_water_waste",
+    "crew_report_count",
+    "crew_severity_max",
+    "crew_severity_mean",
+    "inventory_event_count",
+    "shortage_count",
+    "avg_requested_qty"
+  ],
+  "categorical_features": [
+    "tail_id",
+    "client_id",
+    "aircraft",
+    "route",
+    "departure",
+    "weather"
+  ]
+}

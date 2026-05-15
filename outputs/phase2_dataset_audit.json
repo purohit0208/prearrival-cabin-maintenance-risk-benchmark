@@ -1,0 +1,301 @@
+{
+  "dataset_shapes": {
+    "flights": [
+      5267,
+      25
+    ],
+    "crew_reports": [
+      94806,
+      12
+    ],
+    "inventory_events": [
+      126408,
+      9
+    ],
+    "maintenance_labels": [
+      5267,
+      6
+    ],
+    "maintenance_actions": [
+      1570,
+      4
+    ],
+    "split": [
+      5267,
+      5
+    ],
+    "gold_standard_labels": [
+      1200,
+      10
+    ]
+  },
+  "id_integrity": {
+    "flights_unique": 5267,
+    "labels_unique": 5267,
+    "split_unique": 5267,
+    "labels_missing_from_flights": 0,
+    "split_missing_from_flights": 0,
+    "flights_missing_from_labels": 0,
+    "flights_missing_from_split": 0
+  },
+  "split_policy": {
+    "counts": {
+      "train": 3551,
+      "test": 1072,
+      "val": 644
+    },
+    "date_ranges": {
+      "test": {
+        "min": "2025-01-03T06:19:05.085733",
+        "max": "2025-01-11T19:00:00.484848",
+        "count": 1072
+      },
+      "train": {
+        "min": "2025-01-01T06:00:00",
+        "max": "2025-01-09T05:45:51.694005",
+        "count": 3551
+      },
+      "val": {
+        "min": "2025-01-03T01:20:00.582330",
+        "max": "2025-01-10T09:21:44.283139",
+        "count": 644
+      }
+    },
+    "client_by_split": {
+      "test": {
+        "AL1": 288,
+        "AL2": 223,
+        "AL3": 271,
+        "AL4": 290
+      },
+      "train": {
+        "AL1": 964,
+        "AL2": 741,
+        "AL3": 888,
+        "AL4": 958
+      },
+      "val": {
+        "AL1": 178,
+        "AL2": 133,
+        "AL3": 160,
+        "AL4": 173
+      }
+    },
+    "n_tails": 300,
+    "tails_with_nonmonotonic_train_val_test_order": 0
+  },
+  "maintenance_target_audit": {
+    "maintenance_needed_rate": 0.29808239984811086,
+    "negative_hazard_min": 0.273,
+    "negative_hazard_max": 0.863,
+    "positive_hazard_min": 0.864,
+    "positive_hazard_max": 1.8,
+    "perfect_binary_separation_from_hazard_score": true,
+    "interpretation": "maintenance_needed is threshold-derived from hazard_score; binary classification would reconstruct the generator rule."
+  },
+  "old_notebook_leakage_risks": {
+    "old_features_include_shortage_count": true,
+    "old_features_include_inventory_event_count": true,
+    "inventory_target_in_old_notebook": "shortage_count",
+    "interpretation": "The prior inventory task predicts shortage_count while shortage_count is also in the input feature set, so those inventory scores are not valid independent forecasting evidence."
+  },
+  "feature_quality_flags": {
+    "constant_columns_after_aggregation": [
+      "crew_report_count",
+      "inventory_event_count"
+    ],
+    "crew_reports_per_flight_unique_values": [
+      18
+    ],
+    "inventory_events_per_flight_unique_values": [
+      24
+    ],
+    "latent_columns_present_in_raw_flights": [
+      "latent_seat",
+      "latent_lighting",
+      "latent_galley",
+      "latent_panel",
+      "latent_water_waste"
+    ],
+    "latent_columns_used_in_old_feature_schema": []
+  },
+  "text_corpus_audit": {
+    "crew_rows": 94806,
+    "crew_unique_report_texts": 44763,
+    "language_counts": {
+      "en": 31806,
+      "de": 31590,
+      "typo": 31410
+    },
+    "component_counts": {
+      "25-SEAT": 19025,
+      "25-PANEL": 19001,
+      "38-WATER": 18987,
+      "38-GALLEY": 18898,
+      "33-LIGHT": 18895
+    },
+    "severity_counts": {
+      "Medium": 49915,
+      "High": 30706,
+      "Low": 11757,
+      "Critical": 2428
+    },
+    "location_counts": {
+      "cabin_mid": 58324,
+      "door_area": 24705,
+      "cabin_rear": 11777
+    },
+    "gold_rows": 1200,
+    "gold_unique_report_texts": 864,
+    "gold_component_counts": {
+      "38-WATER": 336,
+      "33-LIGHT": 276,
+      "38-GALLEY": 252,
+      "25-SEAT": 168,
+      "25-PANEL": 168
+    },
+    "gold_severity_counts": {
+      "Medium": 444,
+      "High": 336,
+      "Low": 252,
+      "Critical": 168
+    },
+    "gold_location_counts": {
+      "cabin_mid": 758,
+      "door_area": 259,
+      "cabin_rear": 183
+    },
+    "gold_issue_counts": {
+      "malfunction": 1200
+    },
+    "gold_issue_task_validity": "target_issue is constant in the current gold labels, so it should not be presented as a multiclass extraction benchmark."
+  },
+  "inventory_distribution_summary": {
+    "inventory_event_count": {
+      "mean": 24.0,
+      "std": 0.0,
+      "min": 24.0,
+      "50%": 24.0,
+      "max": 24.0
+    },
+    "shortage_count": {
+      "mean": 48.11752420732865,
+      "std": 20.569226959349137,
+      "min": 10.0,
+      "50%": 44.0,
+      "max": 156.0
+    },
+    "shortage_occurrences": {
+      "mean": 11.650844883235239,
+      "std": 2.4601998527885427,
+      "min": 3.0,
+      "50%": 12.0,
+      "max": 20.0
+    },
+    "requested_sum": {
+      "mean": 650.7340041769509,
+      "std": 267.66491356051534,
+      "min": 235.0,
+      "50%": 628.0,
+      "max": 1332.0
+    },
+    "stock_sum": {
+      "mean": 640.5084488323524,
+      "std": 262.86923008544994,
+      "min": 260.0,
+      "50%": 620.0,
+      "max": 1252.0
+    },
+    "avg_requested_qty": {
+      "mean": 27.113916840706285,
+      "std": 11.152704731688138,
+      "min": 9.791666666666666,
+      "50%": 26.166666666666668,
+      "max": 55.5
+    },
+    "avg_stock_available": {
+      "mean": 26.687852034681352,
+      "std": 10.952884586893749,
+      "min": 10.833333333333334,
+      "50%": 25.833333333333332,
+      "max": 52.166666666666664
+    }
+  },
+  "top_abs_correlations_with_hazard_score": [
+    {
+      "feature": "maintenance_needed",
+      "abs_corr_with_hazard_score": 0.7561773654662234,
+      "abs_corr_with_maintenance_needed": NaN
+    },
+    {
+      "feature": "pred_time_to_failure_hours",
+      "abs_corr_with_hazard_score": 0.681386330507847,
+      "abs_corr_with_maintenance_needed": 0.5459172177561518
+    },
+    {
+      "feature": "hours_since_install_lighting",
+      "abs_corr_with_hazard_score": 0.6644722557519022,
+      "abs_corr_with_maintenance_needed": 0.45527286136456013
+    },
+    {
+      "feature": "hours_since_install_panel",
+      "abs_corr_with_hazard_score": 0.6592668157356577,
+      "abs_corr_with_maintenance_needed": 0.4418476714593056
+    },
+    {
+      "feature": "hours_since_install_seat",
+      "abs_corr_with_hazard_score": 0.6545236629041142,
+      "abs_corr_with_maintenance_needed": 0.4388422299940599
+    },
+    {
+      "feature": "hours_since_install_water_waste",
+      "abs_corr_with_hazard_score": 0.6534605588899236,
+      "abs_corr_with_maintenance_needed": 0.4333614126389564
+    },
+    {
+      "feature": "hours_since_install_galley",
+      "abs_corr_with_hazard_score": 0.6332868874140124,
+      "abs_corr_with_maintenance_needed": 0.4419369858462509
+    },
+    {
+      "feature": "cycles_since_install_lighting",
+      "abs_corr_with_hazard_score": 0.5398013893688192,
+      "abs_corr_with_maintenance_needed": 0.36127250641502806
+    },
+    {
+      "feature": "cycles_since_install_water_waste",
+      "abs_corr_with_hazard_score": 0.5353486379025288,
+      "abs_corr_with_maintenance_needed": 0.3362103189354072
+    },
+    {
+      "feature": "cycles_since_install_panel",
+      "abs_corr_with_hazard_score": 0.5280628496592149,
+      "abs_corr_with_maintenance_needed": 0.3390043423963612
+    },
+    {
+      "feature": "cycles_since_install_seat",
+      "abs_corr_with_hazard_score": 0.5212473507539928,
+      "abs_corr_with_maintenance_needed": 0.323222673071853
+    },
+    {
+      "feature": "cycles_since_install_galley",
+      "abs_corr_with_hazard_score": 0.5014393856940207,
+      "abs_corr_with_maintenance_needed": 0.33386290835596083
+    },
+    {
+      "feature": "crew_severity_mean",
+      "abs_corr_with_hazard_score": 0.038289673899963836,
+      "abs_corr_with_maintenance_needed": 0.05680411434203477
+    },
+    {
+      "feature": "crew_severity_max",
+      "abs_corr_with_hazard_score": 0.03326497210741652,
+      "abs_corr_with_maintenance_needed": 0.029756251200994933
+    },
+    {
+      "feature": "env_factor",
+      "abs_corr_with_hazard_score": 0.02600008909999843,
+      "abs_corr_with_maintenance_needed": 0.029121066524545117
+    }
+  ]
+}

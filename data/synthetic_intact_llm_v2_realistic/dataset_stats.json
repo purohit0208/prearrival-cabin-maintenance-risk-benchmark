@@ -1,0 +1,14 @@
+{
+  "n_flights": 5267,
+  "n_reports": 94806,
+  "n_inventory_events": 126408,
+  "n_tails": 300,
+  "n_clients": 4,
+  "maintenance_needed_count": 1570,
+  "issue_rate_maintenance_needed_%": 29.81,
+  "image_issue_like_count_(ref_only)": 3270,
+  "audio_issue_like_count_(ref_only)": 3761,
+  "relabel_method": "hazard_quantile",
+  "relabel_target_rate": 0.3,
+  "relabel_threshold_used": 0.863
+}

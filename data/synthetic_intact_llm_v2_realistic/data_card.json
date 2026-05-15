@@ -1,0 +1,20 @@
+{
+  "dataset_version": "v2",
+  "seed": 123,
+  "description": "LLM-only synthetic dataset for in-cabin inventory & predictive maintenance (INTACT). Longitudinal tails, federated clients, temporal splits, latent faults, interventions.",
+  "files": [
+    "flights.csv",
+    "crew_reports.csv",
+    "inventory_events.csv",
+    "maintenance_labels.csv",
+    "maintenance_actions.csv",
+    "split.csv",
+    "gold_standard_labels.csv",
+    "clients.json",
+    "schema.json",
+    "dataset_stats.json"
+  ],
+  "privacy": "synthetic; no real data",
+  "intended_use": "LLM extraction, baseline ML, FL simulation, trustworthiness evaluation",
+  "limitations": "Synthetic correlations; ATA-like codes illustrative; interventions stochastic."
+}

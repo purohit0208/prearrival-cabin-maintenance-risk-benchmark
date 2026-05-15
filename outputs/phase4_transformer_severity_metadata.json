@@ -1,0 +1,10 @@
+{
+  "target": "severity",
+  "model": "MiniLM mean-pooled embeddings plus balanced logistic regression",
+  "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+  "training_rows": 63918,
+  "validation_rows": 11592,
+  "test_rows": 19296,
+  "gold_rows": 1200,
+  "purpose": "Lightweight pre-trained transformer encoder baseline for the only non-deterministic extraction target."
+}

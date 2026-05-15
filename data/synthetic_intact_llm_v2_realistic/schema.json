@@ -1,0 +1,110 @@
+{
+  "flights.csv": {
+    "keys": [
+      "flight_id"
+    ],
+    "required": [
+      "flight_id",
+      "tail_id",
+      "client_id",
+      "aircraft",
+      "route",
+      "departure",
+      "flight_hours",
+      "passengers",
+      "weather",
+      "env_factor"
+    ],
+    "note": "Per-flight snapshot includes per-component install counters and latent flags."
+  },
+  "crew_reports.csv": {
+    "keys": [
+      "flight_id"
+    ],
+    "required": [
+      "flight_id",
+      "tail_id",
+      "client_id",
+      "timestamp",
+      "report_text",
+      "severity",
+      "component_name",
+      "component_code",
+      "location_hint",
+      "device_type",
+      "reporter_role",
+      "language"
+    ]
+  },
+  "inventory_events.csv": {
+    "keys": [
+      "flight_id",
+      "item"
+    ],
+    "required": [
+      "flight_id",
+      "tail_id",
+      "client_id",
+      "timestamp",
+      "category",
+      "item",
+      "requested_qty",
+      "stock_available",
+      "shortage"
+    ]
+  },
+  "maintenance_labels.csv": {
+    "keys": [
+      "flight_id"
+    ],
+    "required": [
+      "flight_id",
+      "tail_id",
+      "client_id",
+      "maintenance_needed",
+      "hazard_score",
+      "pred_time_to_failure_hours"
+    ]
+  },
+  "maintenance_actions.csv": {
+    "keys": [
+      "flight_id"
+    ],
+    "required": [
+      "flight_id",
+      "tail_id",
+      "client_id",
+      "actions"
+    ]
+  },
+  "split.csv": {
+    "keys": [
+      "flight_id"
+    ],
+    "required": [
+      "flight_id",
+      "tail_id",
+      "client_id",
+      "split",
+      "departure"
+    ],
+    "note": "Temporal split by tail to avoid leakage."
+  },
+  "gold_standard_labels.csv": {
+    "keys": [
+      "flight_id"
+    ],
+    "required": [
+      "flight_id",
+      "tail_id",
+      "client_id",
+      "timestamp",
+      "report_text",
+      "target_component_code",
+      "target_component_name",
+      "target_issue",
+      "target_severity",
+      "target_location"
+    ]
+  }
+}

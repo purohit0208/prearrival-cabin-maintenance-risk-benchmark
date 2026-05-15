@@ -1,0 +1,13 @@
+target,model,eval_split,class,precision,recall,f1,support
+component_code,char_tfidf_sgd,test,25-PANEL,1.0,1.0,1.0,3945
+component_code,char_tfidf_sgd,test,25-SEAT,1.0,1.0,1.0,3781
+component_code,char_tfidf_sgd,test,33-LIGHT,1.0,1.0,1.0,3852
+component_code,char_tfidf_sgd,test,38-GALLEY,1.0,1.0,1.0,3872
+component_code,char_tfidf_sgd,test,38-WATER,1.0,1.0,1.0,3846
+severity,char_tfidf_sgd,test,Critical,0.3586459286367795,0.7611650485436893,0.48756218905472637,515
+severity,char_tfidf_sgd,test,High,0.7139079851930196,0.6425511661113755,0.6763527054108216,6303
+severity,char_tfidf_sgd,test,Low,0.5291561028612821,0.618020304568528,0.5701463414634146,2364
+severity,char_tfidf_sgd,test,Medium,0.7485924864366875,0.72305714850702,0.7356032791832219,10114
+location_hint,char_tfidf_sgd,test,cabin_mid,1.0,0.9929018083488255,0.996438263229308,11834
+location_hint,char_tfidf_sgd,test,cabin_rear,0.9983164983164983,1.0,0.9991575400168492,2372
+location_hint,char_tfidf_sgd,test,door_area,0.9845261121856866,1.0,0.9922027290448343,5090

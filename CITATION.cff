@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Pre-Arrival Cabin Report Maintenance-Risk Benchmark"
+message: "If you use this synthetic benchmark, please cite the associated manuscript and this repository."
+type: dataset
+authors:
+  - family-names: Purohit
+    given-names: Parth Yogeshbhai
+  - family-names: Feuerle
+    given-names: Thomas
+  - family-names: Hecker
+    given-names: Peter
+repository-code: "https://github.com/purohit0208/prearrival-cabin-maintenance-risk-benchmark"
+date-released: "2026-05-15"
+keywords:
+  - synthetic benchmark
+  - aviation
+  - maintenance risk
+  - text extraction
+  - data leakage
+license: MIT
